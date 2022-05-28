@@ -1,5 +1,7 @@
-# [由此去 :point_right: 健保流程圖](https://losehrt.github.io/nhi_flows/)
+# [:point_right: 由此前往健保流程圖](https://losehrt.github.io/nhi_flows/)
 
+
+# [:question: 如何貢獻一起來畫圖](./contribution/index.md)
 
 You can use the [editor on GitHub](https://github.com/losehrt/nhi_draw/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files[^1].
 
