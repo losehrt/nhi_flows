@@ -16,25 +16,51 @@
 - 合併請求
 ### 4. markdown
 - 輕量版的文字排版格式[^4]
-## 開始
+## 開始協作
 
-### 註冊 github 帳號
+### 1. 註冊 github 帳號
 - 若您想要嘗試協同畫圖，開始之前請先到[這裡](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home)註冊一個 github 帳號
 
 ![註冊步驟](./images/registration.drawio.svg)
 
-### 複製分支成為自己的專案
+### 2. 複製分支成為自己的專案
 
-[快速連結](https://github.com/losehrt/nhi_flows/fork)
-![複製專案步驟](./images/fork.drawio.svg)
+- [複製專案的快速連結](https://github.com/losehrt/nhi_flows/fork)(須先登入 github)
 
+- 登入 github 網站後再複製專案的步驟如下圖所示：
+![](./images/fork.drawio.svg)
+  1. 搜尋「nhi_flows」專案
+  2. 點取該專案後，點取右上角「fork」，按建立即可
 
-### 安裝 git
-- 安裝版本控制軟體 [下載軟體](https://git-scm.com/download)
-  請依照你電腦作業系統下載軟體安裝完成
-  ![安裝說明](./git_install.drawio.svg)
+### 3. 安裝 git
+協作時，為了做檔案的版本控制，開始之前，我們也須先安裝 git 軟體，以利我們將專案複製(clone)到本地端的電腦，進行畫圖或編寫文字內容。
+- 安裝 git 版本控制軟體 [請到這裡下載](https://git-scm.com/download)，並依照您電腦的作業系統，下載相對版本的 git 軟體安裝。
+![](./images/git_install.drawio.svg)
 
+- 若您有安裝上的問題，可以看看 [windows 上的 git 安裝教學](https://w3c.hexschool.com/git/3f9497cd)參考，或是留言發問。
 
+- 最後，我們可以檢查看看，您電腦的 git 是否安裝成功？請開啟終端機，並執行執行下列指令：
+
+```
+❯ git --version
+git version 2.24.3 (Apple Git-128)
+```
+
+### 4. vscode + drawio 套件
+- 若您還不知如何使用 vscode + drawio 畫圖。
+- 網路有一些教學，建議您先去看看再回來喔！
+  1. [網路上有一些教學](https://ithelp.ithome.com.tw/articles/10236346)
+  2. [影片教學](https://youtu.be/AdrFG7sq1d4)
+
+![](./images/vscode.drawio.svg)
+
+### 5. 將專案載入 vscode
+當所有準備工作都已經完成之後，我們可以開啟 vscode(假設您已經根據上一小節所述，已安裝 vscode 及 drawio 套件)，如下圖所示：
+
+![](./images/startup.drawio.svg)
+你可以直接
+- 從 Github 複製
+- 自己複製網址，如： https://github.com/NickleCheng/nhi_flows.git
 
 [^1]: [vscode drawio 套件](https://github.com/hediet/vscode-drawio)
 [^2]: [可縮放向量圖形](https://zh.m.wikipedia.org/zh-tw/%E5%8F%AF%E7%B8%AE%E6%94%BE%E5%90%91%E9%87%8F%E5%9C%96%E5%BD%A2)
