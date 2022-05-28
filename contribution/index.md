@@ -14,16 +14,27 @@
 ### 3. git
 - 版本控制
 - 合併請求
-
+### 4. markdown
+- 輕量版的文字排版格式[^4]
 ## 開始
 
-### 複製專案
+### 註冊 github 帳號
+- 若您想要嘗試協同畫圖，開始之前請先到[這裡](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home)註冊一個 github 帳號
+
+![註冊步驟](./images/registration.drawio.svg)
+
+### 複製分支成為自己的專案
+
+[快速連結](https://github.com/losehrt/nhi_flows/fork)
+![複製專案步驟](./images/fork.drawio.svg)
+
+
+### 安裝 git
 - 安裝版本控制軟體 [下載軟體](https://git-scm.com/download)
   請依照你電腦作業系統下載軟體安裝完成
   ![安裝說明](./git_install.drawio.svg)
 
-### 4. markdown
-- 輕量版的文字排版格式[^4]
+
 
 [^1]: [vscode drawio 套件](https://github.com/hediet/vscode-drawio)
 [^2]: [可縮放向量圖形](https://zh.m.wikipedia.org/zh-tw/%E5%8F%AF%E7%B8%AE%E6%94%BE%E5%90%91%E9%87%8F%E5%9C%96%E5%BD%A2)
