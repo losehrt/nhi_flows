@@ -1,11 +1,12 @@
 # 一起來畫圖 :paintbrush:
 **協同作業**是開放原始碼(Opensource)專案中常見的運作方式，在[衛福部資訊處 *龐一鳴處長* 高呼-醫療上雲](https://www.cio.com.tw/pang-yuming-data-security-cloud-up-medical-ai-as-governors-second-pulse/?utm_source=line&utm_medium=live&utm_campaign=220523)及受疫情干擾之際，「*遠距工作、橫向溝通、斜槓技能*」就顯得份外重要，歡迎大家一起來畫圖，邁向雲端之路。
 
+- **本專案使用 markdown[^1] 撰寫說明文件及 drawio 繪製 SVG[^2] 格式圖片**
+- **本專案所有文件及圖表全部使用 vscode + drawio套件[^3]撰寫**
 
 ## 你需要準備的工具及具備的知識
 ![](./images/step.drawio.svg)
 
-**本專案使用 markdown[^1] 撰寫說明文件及 drawio 繪製 SVG[^2] 格式圖片**
 
 ### 1. 註冊 github 帳號
 - 若您想要嘗試協同畫圖，開始之前請先到[這裡](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home)註冊一個 github 帳號
@@ -22,10 +23,11 @@
 
 ### 3. 安裝 drawio 套件
 drawio 是一套功能強大且免費使用的線上繪圖軟體，可以快速繪製出流程圖(flowchart)或資訊圖表(Infographic)，內建有多種元素及各式樣板，並提供 png, svg 等多種圖片格式匯出功能，習得此軟體保證值回票價，您可以先[前往該網站](https://app.diagrams.net/)試試。
+
 **drawio 參考畫面**
 ![](./images/drawio/sample.drawio.svg)
 
-**本專案的目的，就是使用 vscode + drawio 直接繪製出所需要的圖表，儲存為可縮放向量圖(SVG[^2])，並直接顯示在 github 網頁(gh-pages)。**
+**本專案的目的，就是使用 vscode + drawio [^3]直接繪製出所需要的圖表，儲存為可縮放向量圖(SVG[^2])，並直接顯示在 github 網頁(gh-pages)。**
 
 如果您對 vscode drawio 的使用還有些陌生，網路上有一些教學，建議您先去看看再回來喔！
   1. [vscocde + drawio 安裝網路教學](https://ithelp.ithome.com.tw/articles/10236346)
@@ -82,6 +84,10 @@ git version 2.24.3 (Apple Git-128)
 
 ### 8. 請求合併(Pull Request)
 
-[^1]: [vscode drawio 套件](https://github.com/hediet/vscode-drawio)
-[^2]: [可縮放向量圖形](https://zh.m.wikipedia.org/zh-tw/%E5%8F%AF%E7%B8%AE%E6%94%BE%E5%90%91%E9%87%8F%E5%9C%96%E5%BD%A2)
-[^4]: [markdown 編寫及語法](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+
+
+[^1]: [markdown 編寫及語法](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+[^2]: [SVG 檔案](https://www.adobe.com/tw/creativecloud/file-types/image/vector/svg-file.html)
+[^3]: [vscode drawio 套件](https://github.com/hediet/vscode-drawio)
+
+
