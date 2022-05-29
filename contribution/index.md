@@ -15,6 +15,7 @@
 功能強大且免費使用的文字編輯器，是許多開發者的最愛。
 - 一般使用者也可以用它來解決文字編輯的疑難雜症。
 - 從[這裏下載](https://code.visualstudio.com/)安裝。
+
 **vscode 參考畫面**
 ![](./images/vscode/sample.drawio.svg)
 
