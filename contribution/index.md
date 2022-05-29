@@ -15,27 +15,33 @@
 功能強大且免費使用的文字編輯器，是許多開發者的最愛。
 - 一般使用者也可以用它來解決文字編輯的疑難雜症。
 - 從[這裏下載](https://code.visualstudio.com/)安裝。
+
 **vscode 參考畫面**
 ![](./images/vscode/sample.drawio.svg)
 
 
 ### 3. 安裝 drawio 套件
 drawio 是一套功能強大且免費使用的線上繪圖軟體，可以快速繪製出流程圖(flowchart)或資訊圖表(Infographic)，內建有多種元素及各式樣板，並提供 png, svg 等多種圖片格式匯出功能，習得此軟體保證值回票價，您可以先[前往該網站](https://app.diagrams.net/)試試。
-- 直接在 vscode 安裝外掛模組畫圖[^1]，本專案使用此方法並儲存為向量圖格式SVG[^2]。
-
-- 網路有一些 vscode + drawio 教學，建議您先去看看再回來喔！
-  1. [vscocde 安裝網路教學](https://ithelp.ithome.com.tw/articles/10236346)
-  2. [影片教學](https://youtu.be/AdrFG7sq1d4)
-
 **drawio 參考畫面**
-![](.)
+![](./images/drawio/sample.drawio.svg)
+
+**本專案的目的，就是使用 vscode + drawio 直接繪製出所需要的圖表，儲存為可縮放向量圖(SVG[^2])，並直接顯示在 github 網頁(gh-pages)。**
+
+如果您對 vscode drawio 的使用還有些陌生，網路上有一些教學，建議您先去看看再回來喔！
+  1. [vscocde + drawio 安裝網路教學](https://ithelp.ithome.com.tw/articles/10236346)
+  2. [drawio vscode 套件影片教學](https://youtu.be/AdrFG7sq1d4)
+
+
 
 ### 4. 安裝 git 軟體
 git 是文字檔案內容版本控制的軟體，經常被使用在程式開發的原始碼管理，由於它只針對文字內容做比對，因此，本專案的繪圖協作就採用可縮放向量圖片格式(SVG)來實作圖片版次的管控。
+
 - 版本控制
 - 合併請求
-協作時，為了做檔案的版本控制，開始之前，我們也須先安裝 git 軟體，以利我們將專案複製(clone)到本地端的電腦，進行畫圖或編寫文字內容。
-- 安裝 git 版本控制軟體 [請到這裡下載](https://git-scm.com/download)，並依照您電腦的作業系統，下載相對版本的 git 軟體安裝。
+
+協作時，為了做檔案的版本控制，開始之前，我們也須先安裝 git 軟體，以利我們將專案複製(clone)到本地端的電腦，使用 vscode 進行畫圖(drawio)或編寫文字內容。
+
+[git 安裝程式下載請到這裡](https://git-scm.com/download)，並依照您電腦的作業系統，下載對應的版本安裝。
 ![](./images/git/install.drawio.svg)
 
 - 若您有安裝上的問題，可以看看 [windows 上的 git 安裝教學](https://w3c.hexschool.com/git/3f9497cd)參考，或是留言發問。
@@ -50,11 +56,7 @@ git --version
 git version 2.24.3 (Apple Git-128)
 ```
 
-
-### 5. markdown
-- 輕量版的文字排版格式[^4]
-## 開始協作
-### 1. 複製分支成為自己的專案
+### 5. 複製分支成為自己的專案
 
 - [複製專案的快速連結](https://github.com/losehrt/nhi_flows/fork)(須先登入 github)
 
@@ -66,13 +68,19 @@ git version 2.24.3 (Apple Git-128)
 
 ![](./images/vscode.drawio.svg)
 
-### 5. 將專案載入 vscode
+### 6. 將專案載入 vscode
 當所有準備工作都已經完成之後，我們可以開啟 vscode(假設您已經根據上一小節所述，已安裝 vscode 及 drawio 套件)，如下圖所示：
 
 ![](./images/startup.drawio.svg)
 你可以直接
 - 從 Github 複製
 - 自己複製網址，如： https://github.com/NickleCheng/nhi_flows.git
+
+當您將遠端的專案複製(clone)到本地端的 vscode 之後，就可進行編輯檔案或修改圖片，您可以**盡情的修改或任意刪除檔案**，因為，您本地端的檔案在**沒有上傳及合併之前，完全不會影響遠端的內容**。
+
+### 7. 上傳(Push)
+
+### 8. 請求合併(Pull Request)
 
 [^1]: [vscode drawio 套件](https://github.com/hediet/vscode-drawio)
 [^2]: [可縮放向量圖形](https://zh.m.wikipedia.org/zh-tw/%E5%8F%AF%E7%B8%AE%E6%94%BE%E5%90%91%E9%87%8F%E5%9C%96%E5%BD%A2)
