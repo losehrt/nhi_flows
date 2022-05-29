@@ -46,7 +46,7 @@ git 是文字檔案內容版本控制的軟體，經常被使用在程式開發�
 [git 安裝程式下載請到這裡](https://git-scm.com/download)，並依照您電腦的作業系統，下載對應的版本安裝。
 ![](./images/git/install.drawio.svg)
 
-- 若您有安裝上的問題，可以看看 [windows 上的 git 安裝教學](https://w3c.hexschool.com/git/3f9497cd)參考，或是留言發問。
+- 若您有安裝上的問題，可以看看 [windows 上的 git 安裝教學](https://w3c.hexschool.com/git/3f9497cd)參考，或是[留言發問](https://github.com/losehrt/nhi_flows/discussions/new)。
 
 - 最後，我們可以檢查看看，您電腦的 git 是否安裝成功？請開啟終端機，並執行執行下列指令：
 ```
@@ -77,6 +77,15 @@ git version 2.24.3 (Apple Git-128)
 你可以直接
 - 從 Github 複製
 - 自己複製網址，如： https://github.com/NickleCheng/nhi_flows.git
+
+**如果您並不排斥使用命令列，也許事情會變得簡單**
+請打開終端機畫面，輸入下列命令，**MAGIC**
+
+```
+git clone https://github.com/NickleCheng/nhi_flows.git
+cd nhi_flows
+code .
+```
 
 當您將遠端的專案複製(clone)到本地端的 vscode 之後，就可進行編輯檔案或修改圖片，您可以**盡情的修改或任意刪除檔案**，因為，您本地端的檔案在**沒有上傳及合併之前，完全不會影響遠端的內容**。
 
