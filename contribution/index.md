@@ -66,8 +66,8 @@ git version 2.24.3 (Apple Git-128)
   1. 搜尋「nhi_flows」專案
   2. 點取該專案後，點取右上角「fork」，按建立即可
 ![](./images/fork.drawio.svg)
-
-
+｀
+｀
 ![](./images/vscode.drawio.svg)
 
 ### 6. 將專案載入 vscode
@@ -79,7 +79,7 @@ git version 2.24.3 (Apple Git-128)
 - 自己複製網址，如： https://github.com/NickleCheng/nhi_flows.git
 
 **如果您並不排斥使用命令列，也許事情會變得簡單**
-請打開終端機畫面，輸入下列命令，**MAGIC**
+請打開終端機畫面，輸入下列命令：
 
 ```
 git clone https://github.com/NickleCheng/nhi_flows.git
@@ -87,9 +87,25 @@ cd nhi_flows
 code .
 ```
 
+**MAGIC** 您將會發現結果應該跟前面一樣。
+
 當您將遠端的專案複製(clone)到本地端的 vscode 之後，就可進行編輯檔案或修改圖片，您可以**盡情的修改或任意刪除檔案**，因為，您本地端的檔案在**沒有上傳及合併之前，完全不會影響遠端的內容**。
 
 ### 7. 上傳(Push)
+
+當修改的圖片或及說明告一段落，或是想將本地端修改的內容併回原來專案時，有兩個選擇一個是命令列，另一個則是視覺化的版本
+
+1. 以命令列方式上傳專案：
+請在 vscode 裏面開啟終端機(terminal)，然後輸入下列三行指令即可。
+
+```
+git add .
+git commit -m "更新流程圖"
+git push
+```
+2. 視覺化方式上傳
+若要使用視覺化的方式上傳專案，需先安裝一個叫做 **Git Graph** ![](./images/git_graph.drawio.svg) 的 vscode 套件。安裝方式與之前安裝 drawio 套件相同。
+
 
 ### 8. 請求合併(Pull Request)
 
