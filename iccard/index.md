@@ -1,10 +1,10 @@
 [回首頁](../index.md)
 
-# 健保 IC 卡上傳
+![](./images/iccard.drawio.svg)
 
-## Covid19 檢驗結果即時上傳
+## 即時上傳
 
-### 檢驗結果即時通報流程圖[^1]
+### Covid19 檢驗結果即時通報流程圖[^1]
 ![](./images/covid19.drawio.svg)
 
 ### 文件
