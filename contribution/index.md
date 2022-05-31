@@ -1,4 +1,4 @@
-# 一起來畫圖 :paintbrush:
+# 一起來畫圖
 **協同作業**是開放原始碼(Opensource)專案中常見的運作方式，在[衛福部資訊處 *龐一鳴處長* 高呼-醫療上雲](https://www.cio.com.tw/pang-yuming-data-security-cloud-up-medical-ai-as-governors-second-pulse/?utm_source=line&utm_medium=live&utm_campaign=220523)及受疫情干擾之際，「*遠距工作、橫向溝通、斜槓技能*」就顯得份外重要，歡迎大家一起來畫圖，邁向雲端之路。
 
 - **本專案使用 markdown[^1] 撰寫說明文件及 drawio 繪製 SVG[^2] 格式圖片**
