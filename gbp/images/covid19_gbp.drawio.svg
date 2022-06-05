@@ -1,0 +1,966 @@
+<svg host="65bd71144e" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="931px" height="1982px" viewBox="-0.5 -0.5 931 1982" content="&lt;mxfile&gt;&lt;diagram id=&quot;ciaFSyJRwSwrlPhDVZF1&quot; name=&quot;第1頁&quot;&gt;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&lt;/diagram&gt;&lt;/mxfile&gt;">
+    <defs>
+        <clipPath id="mx-clip-248-108-64-20-0">
+            <rect x="248" y="108" width="64" height="20"/>
+        </clipPath>
+        <clipPath id="mx-clip-334-108-98-20-0">
+            <rect x="334" y="108" width="98" height="20"/>
+        </clipPath>
+        <clipPath id="mx-clip-248-144-64-20-0">
+            <rect x="248" y="144" width="64" height="20"/>
+        </clipPath>
+        <clipPath id="mx-clip-334-144-98-20-0">
+            <rect x="334" y="144" width="98" height="20"/>
+        </clipPath>
+        <clipPath id="mx-clip-248-180-64-20-0">
+            <rect x="248" y="180" width="64" height="20"/>
+        </clipPath>
+        <clipPath id="mx-clip-334-180-98-20-0">
+            <rect x="334" y="180" width="98" height="20"/>
+        </clipPath>
+        <clipPath id="mx-clip-248-216-64-20-0">
+            <rect x="248" y="216" width="64" height="20"/>
+        </clipPath>
+        <clipPath id="mx-clip-334-216-98-20-0">
+            <rect x="334" y="216" width="98" height="20"/>
+        </clipPath>
+        <clipPath id="mx-clip-248-252-64-20-0">
+            <rect x="248" y="252" width="64" height="20"/>
+        </clipPath>
+        <clipPath id="mx-clip-334-252-98-20-0">
+            <rect x="334" y="252" width="98" height="20"/>
+        </clipPath>
+        <clipPath id="mx-clip-8-108-64-20-0">
+            <rect x="8" y="108" width="64" height="20"/>
+        </clipPath>
+        <clipPath id="mx-clip-94-108-98-20-0">
+            <rect x="94" y="108" width="98" height="20"/>
+        </clipPath>
+        <clipPath id="mx-clip-8-144-64-20-0">
+            <rect x="8" y="144" width="64" height="20"/>
+        </clipPath>
+        <clipPath id="mx-clip-94-144-98-20-0">
+            <rect x="94" y="144" width="98" height="20"/>
+        </clipPath>
+        <clipPath id="mx-clip-8-180-64-20-0">
+            <rect x="8" y="180" width="64" height="20"/>
+        </clipPath>
+        <clipPath id="mx-clip-94-180-98-20-0">
+            <rect x="94" y="180" width="98" height="20"/>
+        </clipPath>
+        <clipPath id="mx-clip-8-216-64-20-0">
+            <rect x="8" y="216" width="64" height="20"/>
+        </clipPath>
+        <clipPath id="mx-clip-94-216-98-20-0">
+            <rect x="94" y="216" width="98" height="20"/>
+        </clipPath>
+        <clipPath id="mx-clip-8-252-64-20-0">
+            <rect x="8" y="252" width="64" height="20"/>
+        </clipPath>
+        <clipPath id="mx-clip-94-252-98-20-0">
+            <rect x="94" y="252" width="98" height="20"/>
+        </clipPath>
+        <clipPath id="mx-clip-488-108-64-20-0">
+            <rect x="488" y="108" width="64" height="20"/>
+        </clipPath>
+        <clipPath id="mx-clip-574-108-98-20-0">
+            <rect x="574" y="108" width="98" height="20"/>
+        </clipPath>
+        <clipPath id="mx-clip-488-144-64-20-0">
+            <rect x="488" y="144" width="64" height="20"/>
+        </clipPath>
+        <clipPath id="mx-clip-574-144-98-20-0">
+            <rect x="574" y="144" width="98" height="20"/>
+        </clipPath>
+        <clipPath id="mx-clip-488-180-64-20-0">
+            <rect x="488" y="180" width="64" height="20"/>
+        </clipPath>
+        <clipPath id="mx-clip-574-180-98-20-0">
+            <rect x="574" y="180" width="98" height="20"/>
+        </clipPath>
+        <clipPath id="mx-clip-488-216-64-20-0">
+            <rect x="488" y="216" width="64" height="20"/>
+        </clipPath>
+        <clipPath id="mx-clip-560-208-120-36-0">
+            <rect x="560" y="208" width="120" height="36"/>
+        </clipPath>
+        <clipPath id="mx-clip-488-252-64-20-0">
+            <rect x="488" y="252" width="64" height="20"/>
+        </clipPath>
+        <clipPath id="mx-clip-574-252-98-20-0">
+            <rect x="574" y="252" width="98" height="20"/>
+        </clipPath>
+        <clipPath id="mx-clip-728-108-64-20-0">
+            <rect x="728" y="108" width="64" height="20"/>
+        </clipPath>
+        <clipPath id="mx-clip-814-108-98-20-0">
+            <rect x="814" y="108" width="98" height="20"/>
+        </clipPath>
+        <clipPath id="mx-clip-728-144-64-20-0">
+            <rect x="728" y="144" width="64" height="20"/>
+        </clipPath>
+        <clipPath id="mx-clip-814-144-98-20-0">
+            <rect x="814" y="144" width="98" height="20"/>
+        </clipPath>
+        <clipPath id="mx-clip-728-180-64-20-0">
+            <rect x="728" y="180" width="64" height="20"/>
+        </clipPath>
+        <clipPath id="mx-clip-814-180-98-20-0">
+            <rect x="814" y="180" width="98" height="20"/>
+        </clipPath>
+        <clipPath id="mx-clip-728-216-64-20-0">
+            <rect x="728" y="216" width="64" height="20"/>
+        </clipPath>
+        <clipPath id="mx-clip-814-216-98-20-0">
+            <rect x="814" y="216" width="98" height="20"/>
+        </clipPath>
+        <clipPath id="mx-clip-728-252-64-20-0">
+            <rect x="728" y="252" width="64" height="20"/>
+        </clipPath>
+        <clipPath id="mx-clip-814-252-98-20-0">
+            <rect x="814" y="252" width="98" height="20"/>
+        </clipPath>
+        <clipPath id="mx-clip-248-1158-64-20-0">
+            <rect x="248" y="1158" width="64" height="20"/>
+        </clipPath>
+        <clipPath id="mx-clip-334-1158-98-20-0">
+            <rect x="334" y="1158" width="98" height="20"/>
+        </clipPath>
+        <clipPath id="mx-clip-248-1194-64-20-0">
+            <rect x="248" y="1194" width="64" height="20"/>
+        </clipPath>
+        <clipPath id="mx-clip-334-1194-98-20-0">
+            <rect x="334" y="1194" width="98" height="20"/>
+        </clipPath>
+        <clipPath id="mx-clip-248-1230-64-20-0">
+            <rect x="248" y="1230" width="64" height="20"/>
+        </clipPath>
+        <clipPath id="mx-clip-334-1230-98-20-0">
+            <rect x="334" y="1230" width="98" height="20"/>
+        </clipPath>
+        <clipPath id="mx-clip-248-1266-64-20-0">
+            <rect x="248" y="1266" width="64" height="20"/>
+        </clipPath>
+        <clipPath id="mx-clip-334-1266-98-20-0">
+            <rect x="334" y="1266" width="98" height="20"/>
+        </clipPath>
+        <clipPath id="mx-clip-248-1302-64-20-0">
+            <rect x="248" y="1302" width="64" height="20"/>
+        </clipPath>
+        <clipPath id="mx-clip-334-1302-98-20-0">
+            <rect x="334" y="1302" width="98" height="20"/>
+        </clipPath>
+        <clipPath id="mx-clip-8-1158-64-20-0">
+            <rect x="8" y="1158" width="64" height="20"/>
+        </clipPath>
+        <clipPath id="mx-clip-94-1158-98-20-0">
+            <rect x="94" y="1158" width="98" height="20"/>
+        </clipPath>
+        <clipPath id="mx-clip-8-1194-64-20-0">
+            <rect x="8" y="1194" width="64" height="20"/>
+        </clipPath>
+        <clipPath id="mx-clip-94-1194-98-20-0">
+            <rect x="94" y="1194" width="98" height="20"/>
+        </clipPath>
+        <clipPath id="mx-clip-8-1230-64-20-0">
+            <rect x="8" y="1230" width="64" height="20"/>
+        </clipPath>
+        <clipPath id="mx-clip-94-1230-98-20-0">
+            <rect x="94" y="1230" width="98" height="20"/>
+        </clipPath>
+        <clipPath id="mx-clip-8-1266-64-20-0">
+            <rect x="8" y="1266" width="64" height="20"/>
+        </clipPath>
+        <clipPath id="mx-clip-94-1266-98-20-0">
+            <rect x="94" y="1266" width="98" height="20"/>
+        </clipPath>
+        <clipPath id="mx-clip-8-1302-64-20-0">
+            <rect x="8" y="1302" width="64" height="20"/>
+        </clipPath>
+        <clipPath id="mx-clip-94-1302-98-20-0">
+            <rect x="94" y="1302" width="98" height="20"/>
+        </clipPath>
+        <clipPath id="mx-clip-488-1158-64-20-0">
+            <rect x="488" y="1158" width="64" height="20"/>
+        </clipPath>
+        <clipPath id="mx-clip-574-1158-98-20-0">
+            <rect x="574" y="1158" width="98" height="20"/>
+        </clipPath>
+        <clipPath id="mx-clip-488-1194-64-20-0">
+            <rect x="488" y="1194" width="64" height="20"/>
+        </clipPath>
+        <clipPath id="mx-clip-574-1194-98-20-0">
+            <rect x="574" y="1194" width="98" height="20"/>
+        </clipPath>
+        <clipPath id="mx-clip-488-1230-64-20-0">
+            <rect x="488" y="1230" width="64" height="20"/>
+        </clipPath>
+        <clipPath id="mx-clip-574-1230-98-20-0">
+            <rect x="574" y="1230" width="98" height="20"/>
+        </clipPath>
+        <clipPath id="mx-clip-488-1266-64-20-0">
+            <rect x="488" y="1266" width="64" height="20"/>
+        </clipPath>
+        <clipPath id="mx-clip-560-1258-120-36-0">
+            <rect x="560" y="1258" width="120" height="36"/>
+        </clipPath>
+        <clipPath id="mx-clip-488-1302-64-20-0">
+            <rect x="488" y="1302" width="64" height="20"/>
+        </clipPath>
+        <clipPath id="mx-clip-574-1302-98-20-0">
+            <rect x="574" y="1302" width="98" height="20"/>
+        </clipPath>
+        <clipPath id="mx-clip-728-1158-64-20-0">
+            <rect x="728" y="1158" width="64" height="20"/>
+        </clipPath>
+        <clipPath id="mx-clip-814-1158-98-20-0">
+            <rect x="814" y="1158" width="98" height="20"/>
+        </clipPath>
+        <clipPath id="mx-clip-728-1194-64-20-0">
+            <rect x="728" y="1194" width="64" height="20"/>
+        </clipPath>
+        <clipPath id="mx-clip-814-1194-98-20-0">
+            <rect x="814" y="1194" width="98" height="20"/>
+        </clipPath>
+        <clipPath id="mx-clip-728-1230-64-20-0">
+            <rect x="728" y="1230" width="64" height="20"/>
+        </clipPath>
+        <clipPath id="mx-clip-814-1230-98-20-0">
+            <rect x="814" y="1230" width="98" height="20"/>
+        </clipPath>
+        <clipPath id="mx-clip-728-1266-64-20-0">
+            <rect x="728" y="1266" width="64" height="20"/>
+        </clipPath>
+        <clipPath id="mx-clip-814-1266-98-20-0">
+            <rect x="814" y="1266" width="98" height="20"/>
+        </clipPath>
+        <clipPath id="mx-clip-728-1302-64-20-0">
+            <rect x="728" y="1302" width="64" height="20"/>
+        </clipPath>
+        <clipPath id="mx-clip-814-1302-98-20-0">
+            <rect x="814" y="1302" width="98" height="20"/>
+        </clipPath>
+    </defs>
+    <g>
+        <image x="-0.5" y="316.83" width="918.13" height="612.67" xlink:href="data:image/svg+xml;base64,PHN2ZyB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2ZXJzaW9uPSIxLjEiIGNsYXNzPSJoaWdoY2hhcnRzLXJvb3QiIHN0eWxlPSJmb250LWZhbWlseTonTm90byBTYW5zIFRDJywgc2Fucy1zZXJpZiwgJ09wZW4gU2Fucyc7Zm9udC1zaXplOjEycHg7IiB3aWR0aD0iNjAwIiBoZWlnaHQ9IjQwMCIgdmlld0JveD0iMCAwIDYwMCA0MDAiPjxkZXNjPkNyZWF0ZWQgd2l0aCBIaWdoY2hhcnRzIDguMi4yPC9kZXNjPjxkZWZzPjxjbGlwUGF0aCBpZD0iaGlnaGNoYXJ0cy12eHJjMWd0LTIzNS0iPjxyZWN0IHg9IjAiIHk9IjAiIHdpZHRoPSI1MTUiIGhlaWdodD0iMTc1IiBmaWxsPSJub25lIi8+PC9jbGlwUGF0aD48Y2xpcFBhdGggaWQ9ImhpZ2hjaGFydHMtdnhyYzFndC0zMTEtIj48cmVjdCB4PSIwIiB5PSIwIiB3aWR0aD0iNTE1IiBoZWlnaHQ9IjE3NSIgZmlsbD0ibm9uZSIvPjwvY2xpcFBhdGg+PC9kZWZzPjxyZWN0IGZpbGw9IiNGRkZGRkYiIGNsYXNzPSJoaWdoY2hhcnRzLWJhY2tncm91bmQiIHg9IjAiIHk9IjAiIHdpZHRoPSI2MDAiIGhlaWdodD0iNDAwIiByeD0iMCIgcnk9IjAiLz48cmVjdCBmaWxsPSIjRkZGRkZGIiBjbGFzcz0iaGlnaGNoYXJ0cy1wbG90LWJhY2tncm91bmQiIHg9Ijc1IiB5PSI4NCIgd2lkdGg9IjUxNSIgaGVpZ2h0PSIxNzUiLz48ZyBjbGFzcz0iaGlnaGNoYXJ0cy1wbG90LWxpbmVzLTAiIGRhdGEtei1pbmRleD0iMCI+PHBhdGggZmlsbD0ibm9uZSIgY2xhc3M9ImhpZ2hjaGFydHMtcGxvdC1saW5lICIgZD0iTSA3NSAyNTkuNSBMIDU5MCAyNTkuNSIvPjwvZz48ZyBjbGFzcz0iaGlnaGNoYXJ0cy1ncmlkIGhpZ2hjaGFydHMteGF4aXMtZ3JpZCIgZGF0YS16LWluZGV4PSIxIj48cGF0aCBmaWxsPSJub25lIiBkYXRhLXotaW5kZXg9IjEiIGNsYXNzPSJoaWdoY2hhcnRzLWdyaWQtbGluZSIgZD0iTSA3OS41IDg0IEwgNzkuNSAyNTkiIG9wYWNpdHk9IjEiLz48cGF0aCBmaWxsPSJub25lIiBkYXRhLXotaW5kZXg9IjEiIGNsYXNzPSJoaWdoY2hhcnRzLWdyaWQtbGluZSIgZD0iTSAxMTguNSA4NCBMIDExOC41IDI1OSIgb3BhY2l0eT0iMSIvPjxwYXRoIGZpbGw9Im5vbmUiIGRhdGEtei1pbmRleD0iMSIgY2xhc3M9ImhpZ2hjaGFydHMtZ3JpZC1saW5lIiBkPSJNIDE1OC41IDg0IEwgMTU4LjUgMjU5IiBvcGFjaXR5PSIxIi8+PHBhdGggZmlsbD0ibm9uZSIgZGF0YS16LWluZGV4PSIxIiBjbGFzcz0iaGlnaGNoYXJ0cy1ncmlkLWxpbmUiIGQ9Ik0gMTk3LjUgODQgTCAxOTcuNSAyNTkiIG9wYWNpdHk9IjEiLz48cGF0aCBmaWxsPSJub25lIiBkYXRhLXotaW5kZXg9IjEiIGNsYXNzPSJoaWdoY2hhcnRzLWdyaWQtbGluZSIgZD0iTSAyMzcuNSA4NCBMIDIzNy41IDI1OSIgb3BhY2l0eT0iMSIvPjxwYXRoIGZpbGw9Im5vbmUiIGRhdGEtei1pbmRleD0iMSIgY2xhc3M9ImhpZ2hjaGFydHMtZ3JpZC1saW5lIiBkPSJNIDI3Ny41IDg0IEwgMjc3LjUgMjU5IiBvcGFjaXR5PSIxIi8+PHBhdGggZmlsbD0ibm9uZSIgZGF0YS16LWluZGV4PSIxIiBjbGFzcz0iaGlnaGNoYXJ0cy1ncmlkLWxpbmUiIGQ9Ik0gMzE2LjUgODQgTCAzMTYuNSAyNTkiIG9wYWNpdHk9IjEiLz48cGF0aCBmaWxsPSJub25lIiBkYXRhLXotaW5kZXg9IjEiIGNsYXNzPSJoaWdoY2hhcnRzLWdyaWQtbGluZSIgZD0iTSAzNTYuNSA4NCBMIDM1Ni41IDI1OSIgb3BhY2l0eT0iMSIvPjxwYXRoIGZpbGw9Im5vbmUiIGRhdGEtei1pbmRleD0iMSIgY2xhc3M9ImhpZ2hjaGFydHMtZ3JpZC1saW5lIiBkPSJNIDM5NS41IDg0IEwgMzk1LjUgMjU5IiBvcGFjaXR5PSIxIi8+PHBhdGggZmlsbD0ibm9uZSIgZGF0YS16LWluZGV4PSIxIiBjbGFzcz0iaGlnaGNoYXJ0cy1ncmlkLWxpbmUiIGQ9Ik0gNDM1LjUgODQgTCA0MzUuNSAyNTkiIG9wYWNpdHk9IjEiLz48cGF0aCBmaWxsPSJub25lIiBkYXRhLXotaW5kZXg9IjEiIGNsYXNzPSJoaWdoY2hhcnRzLWdyaWQtbGluZSIgZD0iTSA0NzQuNSA4NCBMIDQ3NC41IDI1OSIgb3BhY2l0eT0iMSIvPjxwYXRoIGZpbGw9Im5vbmUiIGRhdGEtei1pbmRleD0iMSIgY2xhc3M9ImhpZ2hjaGFydHMtZ3JpZC1saW5lIiBkPSJNIDUxNC41IDg0IEwgNTE0LjUgMjU5IiBvcGFjaXR5PSIxIi8+PHBhdGggZmlsbD0ibm9uZSIgZGF0YS16LWluZGV4PSIxIiBjbGFzcz0iaGlnaGNoYXJ0cy1ncmlkLWxpbmUiIGQ9Ik0gNTUzLjUgODQgTCA1NTMuNSAyNTkiIG9wYWNpdHk9IjEiLz48cGF0aCBmaWxsPSJub25lIiBkYXRhLXotaW5kZXg9IjEiIGNsYXNzPSJoaWdoY2hhcnRzLWdyaWQtbGluZSIgZD0iTSA5OS41IDg0IEwgOTkuNSAyNTkiIG9wYWNpdHk9IjEiLz48cGF0aCBmaWxsPSJub25lIiBkYXRhLXotaW5kZXg9IjEiIGNsYXNzPSJoaWdoY2hhcnRzLWdyaWQtbGluZSIgZD0iTSAxMzguNSA4NCBMIDEzOC41IDI1OSIgb3BhY2l0eT0iMSIvPjxwYXRoIGZpbGw9Im5vbmUiIGRhdGEtei1pbmRleD0iMSIgY2xhc3M9ImhpZ2hjaGFydHMtZ3JpZC1saW5lIiBkPSJNIDE3OC41IDg0IEwgMTc4LjUgMjU5IiBvcGFjaXR5PSIxIi8+PHBhdGggZmlsbD0ibm9uZSIgZGF0YS16LWluZGV4PSIxIiBjbGFzcz0iaGlnaGNoYXJ0cy1ncmlkLWxpbmUiIGQ9Ik0gMjE3LjUgODQgTCAyMTcuNSAyNTkiIG9wYWNpdHk9IjEiLz48cGF0aCBmaWxsPSJub25lIiBkYXRhLXotaW5kZXg9IjEiIGNsYXNzPSJoaWdoY2hhcnRzLWdyaWQtbGluZSIgZD0iTSAyNTcuNSA4NCBMIDI1Ny41IDI1OSIgb3BhY2l0eT0iMSIvPjxwYXRoIGZpbGw9Im5vbmUiIGRhdGEtei1pbmRleD0iMSIgY2xhc3M9ImhpZ2hjaGFydHMtZ3JpZC1saW5lIiBkPSJNIDI5Ni41IDg0IEwgMjk2LjUgMjU5IiBvcGFjaXR5PSIxIi8+PHBhdGggZmlsbD0ibm9uZSIgZGF0YS16LWluZGV4PSIxIiBjbGFzcz0iaGlnaGNoYXJ0cy1ncmlkLWxpbmUiIGQ9Ik0gMzM2LjUgODQgTCAzMzYuNSAyNTkiIG9wYWNpdHk9IjEiLz48cGF0aCBmaWxsPSJub25lIiBkYXRhLXotaW5kZXg9IjEiIGNsYXNzPSJoaWdoY2hhcnRzLWdyaWQtbGluZSIgZD0iTSAzNzUuNSA4NCBMIDM3NS41IDI1OSIgb3BhY2l0eT0iMSIvPjxwYXRoIGZpbGw9Im5vbmUiIGRhdGEtei1pbmRleD0iMSIgY2xhc3M9ImhpZ2hjaGFydHMtZ3JpZC1saW5lIiBkPSJNIDQxNS41IDg0IEwgNDE1LjUgMjU5IiBvcGFjaXR5PSIxIi8+PHBhdGggZmlsbD0ibm9uZSIgZGF0YS16LWluZGV4PSIxIiBjbGFzcz0iaGlnaGNoYXJ0cy1ncmlkLWxpbmUiIGQ9Ik0gNDU0LjUgODQgTCA0NTQuNSAyNTkiIG9wYWNpdHk9IjEiLz48cGF0aCBmaWxsPSJub25lIiBkYXRhLXotaW5kZXg9IjEiIGNsYXNzPSJoaWdoY2hhcnRzLWdyaWQtbGluZSIgZD0iTSA0OTQuNSA4NCBMIDQ5NC41IDI1OSIgb3BhY2l0eT0iMSIvPjxwYXRoIGZpbGw9Im5vbmUiIGRhdGEtei1pbmRleD0iMSIgY2xhc3M9ImhpZ2hjaGFydHMtZ3JpZC1saW5lIiBkPSJNIDUzMy41IDg0IEwgNTMzLjUgMjU5IiBvcGFjaXR5PSIxIi8+PHBhdGggZmlsbD0ibm9uZSIgZGF0YS16LWluZGV4PSIxIiBjbGFzcz0iaGlnaGNoYXJ0cy1ncmlkLWxpbmUiIGQ9Ik0gNTczLjUgODQgTCA1NzMuNSAyNTkiIG9wYWNpdHk9IjEiLz48L2c+PGcgY2xhc3M9ImhpZ2hjaGFydHMtZ3JpZCBoaWdoY2hhcnRzLXlheGlzLWdyaWQiIGRhdGEtei1pbmRleD0iMSI+PHBhdGggZmlsbD0ibm9uZSIgZGF0YS16LWluZGV4PSIxIiBjbGFzcz0iaGlnaGNoYXJ0cy1ncmlkLWxpbmUiIGQ9Ik0gNzUgMjU5LjUgTCA1OTAgMjU5LjUiIG9wYWNpdHk9IjEiLz48cGF0aCBmaWxsPSJub25lIiBkYXRhLXotaW5kZXg9IjEiIGNsYXNzPSJoaWdoY2hhcnRzLWdyaWQtbGluZSIgZD0iTSA3NSAyMTUuNSBMIDU5MCAyMTUuNSIgb3BhY2l0eT0iMSIvPjxwYXRoIGZpbGw9Im5vbmUiIGRhdGEtei1pbmRleD0iMSIgY2xhc3M9ImhpZ2hjaGFydHMtZ3JpZC1saW5lIiBkPSJNIDc1IDE3Mi41IEwgNTkwIDE3Mi41IiBvcGFjaXR5PSIxIi8+PHBhdGggZmlsbD0ibm9uZSIgZGF0YS16LWluZGV4PSIxIiBjbGFzcz0iaGlnaGNoYXJ0cy1ncmlkLWxpbmUiIGQ9Ik0gNzUgMTI4LjUgTCA1OTAgMTI4LjUiIG9wYWNpdHk9IjEiLz48cGF0aCBmaWxsPSJub25lIiBkYXRhLXotaW5kZXg9IjEiIGNsYXNzPSJoaWdoY2hhcnRzLWdyaWQtbGluZSIgZD0iTSA3NSA4NC41IEwgNTkwIDg0LjUiIG9wYWNpdHk9IjEiLz48L2c+PHJlY3QgZmlsbD0ibm9uZSIgY2xhc3M9ImhpZ2hjaGFydHMtcGxvdC1ib3JkZXIiIGRhdGEtei1pbmRleD0iMSIgeD0iNzUiIHk9Ijg0IiB3aWR0aD0iNTE1IiBoZWlnaHQ9IjE3NSIvPjxnIGNsYXNzPSJoaWdoY2hhcnRzLWF4aXMgaGlnaGNoYXJ0cy14YXhpcyIgZGF0YS16LWluZGV4PSIyIj48dGV4dCB4PSIzMzIuNSIgZGF0YS16LWluZGV4PSI3IiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLDApIiBjbGFzcz0iaGlnaGNoYXJ0cy1heGlzLXRpdGxlIiBzdHlsZT0iY29sb3I6IzMzMztmb250LXNpemU6MTJweDtmaWxsOiMzMzM7IiB5PSIzMzguNjMyODEyNSI+PHRzcGFuPueZvOeXheW5tOmAsTwvdHNwYW4+PC90ZXh0PjxwYXRoIGZpbGw9Im5vbmUiIGNsYXNzPSJoaWdoY2hhcnRzLWF4aXMtbGluZSIgc3Ryb2tlPSIjMDAwMDAwIiBzdHJva2Utd2lkdGg9IjEiIGRhdGEtei1pbmRleD0iNyIgZD0iTSA3NSAyNTkuNSBMIDU5MCAyNTkuNSIvPjwvZz48ZyBjbGFzcz0iaGlnaGNoYXJ0cy1heGlzIGhpZ2hjaGFydHMteWF4aXMiIGRhdGEtei1pbmRleD0iMiI+PHRleHQgeD0iMjQuNTc4MTI1IiBkYXRhLXotaW5kZXg9IjciIHRleHQtYW5jaG9yPSJtaWRkbGUiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDAsMCkgcm90YXRlKDI3MCAyNC41NzgxMjUgMTcxLjUpIiBjbGFzcz0iaGlnaGNoYXJ0cy1heGlzLXRpdGxlIiBzdHlsZT0iY29sb3I6IzMzMztmb250LXNpemU6MTFweDtmaWxsOiMzMzM7IiB5PSIxNzEuNSI+PHRzcGFuPueXheS+i+aVuCAo5Lq6KTwvdHNwYW4+PC90ZXh0PjxwYXRoIGZpbGw9Im5vbmUiIGNsYXNzPSJoaWdoY2hhcnRzLWF4aXMtbGluZSIgZGF0YS16LWluZGV4PSI3IiBkPSJNIDc1IDg0IEwgNzUgMjU5Ii8+PC9nPjxnIGNsYXNzPSJoaWdoY2hhcnRzLXNlcmllcy1ncm91cCIgZGF0YS16LWluZGV4PSIzIj48ZyBjbGFzcz0iaGlnaGNoYXJ0cy1zZXJpZXMgaGlnaGNoYXJ0cy1zZXJpZXMtMCBoaWdoY2hhcnRzLWNvbHVtbi1zZXJpZXMiIGRhdGEtei1pbmRleD0iMC4xIiBvcGFjaXR5PSIxIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSg3NSw4NCkgc2NhbGUoMSAxKSIgY2xpcC1wYXRoPSJ1cmwoI2hpZ2hjaGFydHMtdnhyYzFndC0zMTEtKSI+PHJlY3QgeD0iLTAuNSIgeT0iMTc0LjUiIHdpZHRoPSIxMCIgaGVpZ2h0PSIxIiBmaWxsPSIjQ0MwMDAwIiBzdHJva2U9IiNmZmZmZmYiIHN0cm9rZS13aWR0aD0iMS41IiBvcGFjaXR5PSIxIiBjbGFzcz0iaGlnaGNoYXJ0cy1wb2ludCIvPjxyZWN0IHg9IjkuNSIgeT0iMTc0LjUiIHdpZHRoPSIxMCIgaGVpZ2h0PSIxIiBmaWxsPSIjQ0MwMDAwIiBzdHJva2U9IiNmZmZmZmYiIHN0cm9rZS13aWR0aD0iMS41IiBvcGFjaXR5PSIxIiBjbGFzcz0iaGlnaGNoYXJ0cy1wb2ludCIvPjxyZWN0IHg9IjE5LjUiIHk9IjE3NC41IiB3aWR0aD0iMTAiIGhlaWdodD0iMSIgZmlsbD0iI0NDMDAwMCIgc3Ryb2tlPSIjZmZmZmZmIiBzdHJva2Utd2lkdGg9IjEuNSIgb3BhY2l0eT0iMSIgY2xhc3M9ImhpZ2hjaGFydHMtcG9pbnQiLz48cmVjdCB4PSIyOS41IiB5PSIxNzQuNSIgd2lkdGg9IjEwIiBoZWlnaHQ9IjEiIGZpbGw9IiNDQzAwMDAiIHN0cm9rZT0iI2ZmZmZmZiIgc3Ryb2tlLXdpZHRoPSIxLjUiIG9wYWNpdHk9IjEiIGNsYXNzPSJoaWdoY2hhcnRzLXBvaW50Ii8+PHJlY3QgeD0iMzkuNSIgeT0iMTc1LjUiIHdpZHRoPSI5IiBoZWlnaHQ9IjAiIGZpbGw9IiNDQzAwMDAiIHN0cm9rZT0iI2ZmZmZmZiIgc3Ryb2tlLXdpZHRoPSIxLjUiIG9wYWNpdHk9IjEiIGNsYXNzPSJoaWdoY2hhcnRzLXBvaW50Ii8+PHJlY3QgeD0iNDguNSIgeT0iMTc1LjUiIHdpZHRoPSIxMCIgaGVpZ2h0PSIwIiBmaWxsPSIjQ0MwMDAwIiBzdHJva2U9IiNmZmZmZmYiIHN0cm9rZS13aWR0aD0iMS41IiBvcGFjaXR5PSIxIiBjbGFzcz0iaGlnaGNoYXJ0cy1wb2ludCIvPjxyZWN0IHg9IjU4LjUiIHk9IjE3NS41IiB3aWR0aD0iMTAiIGhlaWdodD0iMCIgZmlsbD0iI0NDMDAwMCIgc3Ryb2tlPSIjZmZmZmZmIiBzdHJva2Utd2lkdGg9IjEuNSIgb3BhY2l0eT0iMSIgY2xhc3M9ImhpZ2hjaGFydHMtcG9pbnQiLz48cmVjdCB4PSI2OC41IiB5PSIxNzUuNSIgd2lkdGg9IjEwIiBoZWlnaHQ9IjAiIGZpbGw9IiNDQzAwMDAiIHN0cm9rZT0iI2ZmZmZmZiIgc3Ryb2tlLXdpZHRoPSIxLjUiIG9wYWNpdHk9IjEiIGNsYXNzPSJoaWdoY2hhcnRzLXBvaW50Ii8+PHJlY3QgeD0iNzguNSIgeT0iMTc0LjUiIHdpZHRoPSIxMCIgaGVpZ2h0PSIxIiBmaWxsPSIjQ0MwMDAwIiBzdHJva2U9IiNmZmZmZmYiIHN0cm9rZS13aWR0aD0iMS41IiBvcGFjaXR5PSIxIiBjbGFzcz0iaGlnaGNoYXJ0cy1wb2ludCIvPjxyZWN0IHg9Ijg4LjUiIHk9IjE3NC41IiB3aWR0aD0iMTAiIGhlaWdodD0iMSIgZmlsbD0iI0NDMDAwMCIgc3Ryb2tlPSIjZmZmZmZmIiBzdHJva2Utd2lkdGg9IjEuNSIgb3BhY2l0eT0iMSIgY2xhc3M9ImhpZ2hjaGFydHMtcG9pbnQiLz48cmVjdCB4PSI5OC41IiB5PSIxNzQuNSIgd2lkdGg9IjEwIiBoZWlnaHQ9IjEiIGZpbGw9IiNDQzAwMDAiIHN0cm9rZT0iI2ZmZmZmZiIgc3Ryb2tlLXdpZHRoPSIxLjUiIG9wYWNpdHk9IjEiIGNsYXNzPSJoaWdoY2hhcnRzLXBvaW50Ii8+PHJlY3QgeD0iMTA4LjUiIHk9IjE3NC41IiB3aWR0aD0iMTAiIGhlaWdodD0iMSIgZmlsbD0iI0NDMDAwMCIgc3Ryb2tlPSIjZmZmZmZmIiBzdHJva2Utd2lkdGg9IjEuNSIgb3BhY2l0eT0iMSIgY2xhc3M9ImhpZ2hjaGFydHMtcG9pbnQiLz48cmVjdCB4PSIxMTguNSIgeT0iMTc0LjUiIHdpZHRoPSI5IiBoZWlnaHQ9IjEiIGZpbGw9IiNDQzAwMDAiIHN0cm9rZT0iI2ZmZmZmZiIgc3Ryb2tlLXdpZHRoPSIxLjUiIG9wYWNpdHk9IjEiIGNsYXNzPSJoaWdoY2hhcnRzLXBvaW50Ii8+PHJlY3QgeD0iMTI3LjUiIHk9IjE3NS41IiB3aWR0aD0iMTAiIGhlaWdodD0iMCIgZmlsbD0iI0NDMDAwMCIgc3Ryb2tlPSIjZmZmZmZmIiBzdHJva2Utd2lkdGg9IjEuNSIgb3BhY2l0eT0iMSIgY2xhc3M9ImhpZ2hjaGFydHMtcG9pbnQiLz48cmVjdCB4PSIxMzcuNSIgeT0iMTc0LjUiIHdpZHRoPSIxMCIgaGVpZ2h0PSIxIiBmaWxsPSIjQ0MwMDAwIiBzdHJva2U9IiNmZmZmZmYiIHN0cm9rZS13aWR0aD0iMS41IiBvcGFjaXR5PSIxIiBjbGFzcz0iaGlnaGNoYXJ0cy1wb2ludCIvPjxyZWN0IHg9IjE0Ny41IiB5PSIxNzQuNSIgd2lkdGg9IjEwIiBoZWlnaHQ9IjEiIGZpbGw9IiNDQzAwMDAiIHN0cm9rZT0iI2ZmZmZmZiIgc3Ryb2tlLXdpZHRoPSIxLjUiIG9wYWNpdHk9IjEiIGNsYXNzPSJoaWdoY2hhcnRzLXBvaW50Ii8+PHJlY3QgeD0iMTU3LjUiIHk9IjE3Mi41IiB3aWR0aD0iMTAiIGhlaWdodD0iMyIgZmlsbD0iI0NDMDAwMCIgc3Ryb2tlPSIjZmZmZmZmIiBzdHJva2Utd2lkdGg9IjEuNSIgb3BhY2l0eT0iMSIgY2xhc3M9ImhpZ2hjaGFydHMtcG9pbnQiLz48cmVjdCB4PSIxNjcuNSIgeT0iMTY4LjUiIHdpZHRoPSIxMCIgaGVpZ2h0PSI3IiBmaWxsPSIjQ0MwMDAwIiBzdHJva2U9IiNmZmZmZmYiIHN0cm9rZS13aWR0aD0iMS41IiBvcGFjaXR5PSIxIiBjbGFzcz0iaGlnaGNoYXJ0cy1wb2ludCIvPjxyZWN0IHg9IjE3Ny41IiB5PSIxMDcuNSIgd2lkdGg9IjEwIiBoZWlnaHQ9IjY4IiBmaWxsPSIjQ0MwMDAwIiBzdHJva2U9IiNmZmZmZmYiIHN0cm9rZS13aWR0aD0iMS41IiBvcGFjaXR5PSIxIiBjbGFzcz0iaGlnaGNoYXJ0cy1wb2ludCIvPjxyZWN0IHg9IjE4Ny41IiB5PSIyNy41IiB3aWR0aD0iMTAiIGhlaWdodD0iMTQ4IiBmaWxsPSIjQ0MwMDAwIiBzdHJva2U9IiNmZmZmZmYiIHN0cm9rZS13aWR0aD0iMS41IiBvcGFjaXR5PSIxIiBjbGFzcz0iaGlnaGNoYXJ0cy1wb2ludCIvPjxyZWN0IHg9IjE5Ny41IiB5PSIzNy41IiB3aWR0aD0iOSIgaGVpZ2h0PSIxMzgiIGZpbGw9IiNDQzAwMDAiIHN0cm9rZT0iI2ZmZmZmZiIgc3Ryb2tlLXdpZHRoPSIxLjUiIG9wYWNpdHk9IjEiIGNsYXNzPSJoaWdoY2hhcnRzLXBvaW50Ii8+PHJlY3QgeD0iMjA2LjUiIHk9Ijc0LjUiIHdpZHRoPSIxMCIgaGVpZ2h0PSIxMDEiIGZpbGw9IiNDQzAwMDAiIHN0cm9rZT0iI2ZmZmZmZiIgc3Ryb2tlLXdpZHRoPSIxLjUiIG9wYWNpdHk9IjEiIGNsYXNzPSJoaWdoY2hhcnRzLXBvaW50Ii8+PHJlY3QgeD0iMjE2LjUiIHk9IjEwOC41IiB3aWR0aD0iMTAiIGhlaWdodD0iNjciIGZpbGw9IiNDQzAwMDAiIHN0cm9rZT0iI2ZmZmZmZiIgc3Ryb2tlLXdpZHRoPSIxLjUiIG9wYWNpdHk9IjEiIGNsYXNzPSJoaWdoY2hhcnRzLXBvaW50Ii8+PHJlY3QgeD0iMjI2LjUiIHk9IjEzNC41IiB3aWR0aD0iMTAiIGhlaWdodD0iNDEiIGZpbGw9IiNDQzAwMDAiIHN0cm9rZT0iI2ZmZmZmZiIgc3Ryb2tlLXdpZHRoPSIxLjUiIG9wYWNpdHk9IjEiIGNsYXNzPSJoaWdoY2hhcnRzLXBvaW50Ii8+PHJlY3QgeD0iMjM2LjUiIHk9IjE1MC41IiB3aWR0aD0iMTAiIGhlaWdodD0iMjUiIGZpbGw9IiNDQzAwMDAiIHN0cm9rZT0iI2ZmZmZmZiIgc3Ryb2tlLXdpZHRoPSIxLjUiIG9wYWNpdHk9IjEiIGNsYXNzPSJoaWdoY2hhcnRzLXBvaW50Ii8+PHJlY3QgeD0iMjQ2LjUiIHk9IjE2MC41IiB3aWR0aD0iMTAiIGhlaWdodD0iMTUiIGZpbGw9IiNDQzAwMDAiIHN0cm9rZT0iI2ZmZmZmZiIgc3Ryb2tlLXdpZHRoPSIxLjUiIG9wYWNpdHk9IjEiIGNsYXNzPSJoaWdoY2hhcnRzLXBvaW50Ii8+PHJlY3QgeD0iMjU2LjUiIHk9IjE2Ni41IiB3aWR0aD0iMTAiIGhlaWdodD0iOSIgZmlsbD0iI0NDMDAwMCIgc3Ryb2tlPSIjZmZmZmZmIiBzdHJva2Utd2lkdGg9IjEuNSIgb3BhY2l0eT0iMSIgY2xhc3M9ImhpZ2hjaGFydHMtcG9pbnQiLz48cmVjdCB4PSIyNjYuNSIgeT0iMTY4LjUiIHdpZHRoPSIxMCIgaGVpZ2h0PSI3IiBmaWxsPSIjQ0MwMDAwIiBzdHJva2U9IiNmZmZmZmYiIHN0cm9rZS13aWR0aD0iMS41IiBvcGFjaXR5PSIxIiBjbGFzcz0iaGlnaGNoYXJ0cy1wb2ludCIvPjxyZWN0IHg9IjI3Ni41IiB5PSIxNjguNSIgd2lkdGg9IjEwIiBoZWlnaHQ9IjciIGZpbGw9IiNDQzAwMDAiIHN0cm9rZT0iI2ZmZmZmZiIgc3Ryb2tlLXdpZHRoPSIxLjUiIG9wYWNpdHk9IjEiIGNsYXNzPSJoaWdoY2hhcnRzLXBvaW50Ii8+PHJlY3QgeD0iMjg2LjUiIHk9IjE3MC41IiB3aWR0aD0iOSIgaGVpZ2h0PSI1IiBmaWxsPSIjQ0MwMDAwIiBzdHJva2U9IiNmZmZmZmYiIHN0cm9rZS13aWR0aD0iMS41IiBvcGFjaXR5PSIxIiBjbGFzcz0iaGlnaGNoYXJ0cy1wb2ludCIvPjxyZWN0IHg9IjI5NS41IiB5PSIxNzEuNSIgd2lkdGg9IjEwIiBoZWlnaHQ9IjQiIGZpbGw9IiNDQzAwMDAiIHN0cm9rZT0iI2ZmZmZmZiIgc3Ryb2tlLXdpZHRoPSIxLjUiIG9wYWNpdHk9IjEiIGNsYXNzPSJoaWdoY2hhcnRzLXBvaW50Ii8+PHJlY3QgeD0iMzA1LjUiIHk9IjE3Mi41IiB3aWR0aD0iMTAiIGhlaWdodD0iMyIgZmlsbD0iI0NDMDAwMCIgc3Ryb2tlPSIjZmZmZmZmIiBzdHJva2Utd2lkdGg9IjEuNSIgb3BhY2l0eT0iMSIgY2xhc3M9ImhpZ2hjaGFydHMtcG9pbnQiLz48cmVjdCB4PSIzMTUuNSIgeT0iMTcyLjUiIHdpZHRoPSIxMCIgaGVpZ2h0PSIzIiBmaWxsPSIjQ0MwMDAwIiBzdHJva2U9IiNmZmZmZmYiIHN0cm9rZS13aWR0aD0iMS41IiBvcGFjaXR5PSIxIiBjbGFzcz0iaGlnaGNoYXJ0cy1wb2ludCIvPjxyZWN0IHg9IjMyNS41IiB5PSIxNzIuNSIgd2lkdGg9IjEwIiBoZWlnaHQ9IjMiIGZpbGw9IiNDQzAwMDAiIHN0cm9rZT0iI2ZmZmZmZiIgc3Ryb2tlLXdpZHRoPSIxLjUiIG9wYWNpdHk9IjEiIGNsYXNzPSJoaWdoY2hhcnRzLXBvaW50Ii8+PHJlY3QgeD0iMzM1LjUiIHk9IjE3My41IiB3aWR0aD0iMTAiIGhlaWdodD0iMiIgZmlsbD0iI0NDMDAwMCIgc3Ryb2tlPSIjZmZmZmZmIiBzdHJva2Utd2lkdGg9IjEuNSIgb3BhY2l0eT0iMSIgY2xhc3M9ImhpZ2hjaGFydHMtcG9pbnQiLz48cmVjdCB4PSIzNDUuNSIgeT0iMTcyLjUiIHdpZHRoPSIxMCIgaGVpZ2h0PSIzIiBmaWxsPSIjQ0MwMDAwIiBzdHJva2U9IiNmZmZmZmYiIHN0cm9rZS13aWR0aD0iMS41IiBvcGFjaXR5PSIxIiBjbGFzcz0iaGlnaGNoYXJ0cy1wb2ludCIvPjxyZWN0IHg9IjM1NS41IiB5PSIxNzMuNSIgd2lkdGg9IjEwIiBoZWlnaHQ9IjIiIGZpbGw9IiNDQzAwMDAiIHN0cm9rZT0iI2ZmZmZmZiIgc3Ryb2tlLXdpZHRoPSIxLjUiIG9wYWNpdHk9IjEiIGNsYXNzPSJoaWdoY2hhcnRzLXBvaW50Ii8+PHJlY3QgeD0iMzY1LjUiIHk9IjE3My41IiB3aWR0aD0iOSIgaGVpZ2h0PSIyIiBmaWxsPSIjQ0MwMDAwIiBzdHJva2U9IiNmZmZmZmYiIHN0cm9rZS13aWR0aD0iMS41IiBvcGFjaXR5PSIxIiBjbGFzcz0iaGlnaGNoYXJ0cy1wb2ludCIvPjxyZWN0IHg9IjM3NC41IiB5PSIxNzMuNSIgd2lkdGg9IjEwIiBoZWlnaHQ9IjIiIGZpbGw9IiNDQzAwMDAiIHN0cm9rZT0iI2ZmZmZmZiIgc3Ryb2tlLXdpZHRoPSIxLjUiIG9wYWNpdHk9IjEiIGNsYXNzPSJoaWdoY2hhcnRzLXBvaW50Ii8+PHJlY3QgeD0iMzg0LjUiIHk9IjE3My41IiB3aWR0aD0iMTAiIGhlaWdodD0iMiIgZmlsbD0iI0NDMDAwMCIgc3Ryb2tlPSIjZmZmZmZmIiBzdHJva2Utd2lkdGg9IjEuNSIgb3BhY2l0eT0iMSIgY2xhc3M9ImhpZ2hjaGFydHMtcG9pbnQiLz48cmVjdCB4PSIzOTQuNSIgeT0iMTc0LjUiIHdpZHRoPSIxMCIgaGVpZ2h0PSIxIiBmaWxsPSIjQ0MwMDAwIiBzdHJva2U9IiNmZmZmZmYiIHN0cm9rZS13aWR0aD0iMS41IiBvcGFjaXR5PSIxIiBjbGFzcz0iaGlnaGNoYXJ0cy1wb2ludCIvPjxyZWN0IHg9IjQwNC41IiB5PSIxNzQuNSIgd2lkdGg9IjEwIiBoZWlnaHQ9IjEiIGZpbGw9IiNDQzAwMDAiIHN0cm9rZT0iI2ZmZmZmZiIgc3Ryb2tlLXdpZHRoPSIxLjUiIG9wYWNpdHk9IjEiIGNsYXNzPSJoaWdoY2hhcnRzLXBvaW50Ii8+PHJlY3QgeD0iNDE0LjUiIHk9IjE3My41IiB3aWR0aD0iMTAiIGhlaWdodD0iMiIgZmlsbD0iI0NDMDAwMCIgc3Ryb2tlPSIjZmZmZmZmIiBzdHJva2Utd2lkdGg9IjEuNSIgb3BhY2l0eT0iMSIgY2xhc3M9ImhpZ2hjaGFydHMtcG9pbnQiLz48cmVjdCB4PSI0MjQuNSIgeT0iMTc0LjUiIHdpZHRoPSIxMCIgaGVpZ2h0PSIxIiBmaWxsPSIjQ0MwMDAwIiBzdHJva2U9IiNmZmZmZmYiIHN0cm9rZS13aWR0aD0iMS41IiBvcGFjaXR5PSIxIiBjbGFzcz0iaGlnaGNoYXJ0cy1wb2ludCIvPjxyZWN0IHg9IjQzNC41IiB5PSIxNzMuNSIgd2lkdGg9IjEwIiBoZWlnaHQ9IjIiIGZpbGw9IiNDQzAwMDAiIHN0cm9rZT0iI2ZmZmZmZiIgc3Ryb2tlLXdpZHRoPSIxLjUiIG9wYWNpdHk9IjEiIGNsYXNzPSJoaWdoY2hhcnRzLXBvaW50Ii8+PHJlY3QgeD0iNDQ0LjUiIHk9IjE3My41IiB3aWR0aD0iOSIgaGVpZ2h0PSIyIiBmaWxsPSIjQ0MwMDAwIiBzdHJva2U9IiNmZmZmZmYiIHN0cm9rZS13aWR0aD0iMS41IiBvcGFjaXR5PSIxIiBjbGFzcz0iaGlnaGNoYXJ0cy1wb2ludCIvPjxyZWN0IHg9IjQ1My41IiB5PSIxNzIuNSIgd2lkdGg9IjEwIiBoZWlnaHQ9IjMiIGZpbGw9IiNDQzAwMDAiIHN0cm9rZT0iI2ZmZmZmZiIgc3Ryb2tlLXdpZHRoPSIxLjUiIG9wYWNpdHk9IjEiIGNsYXNzPSJoaWdoY2hhcnRzLXBvaW50Ii8+PHJlY3QgeD0iNDYzLjUiIHk9IjE3Mi41IiB3aWR0aD0iMTAiIGhlaWdodD0iMyIgZmlsbD0iI0NDMDAwMCIgc3Ryb2tlPSIjZmZmZmZmIiBzdHJva2Utd2lkdGg9IjEuNSIgb3BhY2l0eT0iMSIgY2xhc3M9ImhpZ2hjaGFydHMtcG9pbnQiLz48cmVjdCB4PSI0NzMuNSIgeT0iMTcxLjUiIHdpZHRoPSIxMCIgaGVpZ2h0PSI0IiBmaWxsPSIjQ0MwMDAwIiBzdHJva2U9IiNmZmZmZmYiIHN0cm9rZS13aWR0aD0iMS41IiBvcGFjaXR5PSIxIiBjbGFzcz0iaGlnaGNoYXJ0cy1wb2ludCIvPjxyZWN0IHg9IjQ4My41IiB5PSIxNzIuNSIgd2lkdGg9IjEwIiBoZWlnaHQ9IjMiIGZpbGw9IiNDQzAwMDAiIHN0cm9rZT0iI2ZmZmZmZiIgc3Ryb2tlLXdpZHRoPSIxLjUiIG9wYWNpdHk9IjEiIGNsYXNzPSJoaWdoY2hhcnRzLXBvaW50Ii8+PHJlY3QgeD0iNDkzLjUiIHk9IjE2OS41IiB3aWR0aD0iMTAiIGhlaWdodD0iNiIgZmlsbD0iI0NDMDAwMCIgc3Ryb2tlPSIjZmZmZmZmIiBzdHJva2Utd2lkdGg9IjEuNSIgb3BhY2l0eT0iMSIgY2xhc3M9ImhpZ2hjaGFydHMtcG9pbnQiLz48cmVjdCB4PSI1MDMuNSIgeT0iMTY3LjUiIHdpZHRoPSIxMCIgaGVpZ2h0PSI4IiBmaWxsPSIjQ0MwMDAwIiBzdHJva2U9IiNmZmZmZmYiIHN0cm9rZS13aWR0aD0iMS41IiBvcGFjaXR5PSIxIiBjbGFzcz0iaGlnaGNoYXJ0cy1wb2ludCIvPjwvZz48ZyBjbGFzcz0iaGlnaGNoYXJ0cy1tYXJrZXJzIGhpZ2hjaGFydHMtc2VyaWVzLTAgaGlnaGNoYXJ0cy1jb2x1bW4tc2VyaWVzIiBkYXRhLXotaW5kZXg9IjAuMSIgb3BhY2l0eT0iMSIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoNzUsODQpIHNjYWxlKDEgMSkiIGNsaXAtcGF0aD0ibm9uZSIvPjxnIGNsYXNzPSJoaWdoY2hhcnRzLXNlcmllcyBoaWdoY2hhcnRzLXNlcmllcy0xIGhpZ2hjaGFydHMtbGluZS1zZXJpZXMiIGRhdGEtei1pbmRleD0iMC4xIiBvcGFjaXR5PSIxIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSg3NSw4NCkgc2NhbGUoMSAxKSIgY2xpcC1wYXRoPSJ1cmwoI2hpZ2hjaGFydHMtdnhyYzFndC0zMTEtKSI+PHBhdGggZmlsbD0ibm9uZSIgZD0iTSA0LjkzOTg4NTY4NDI1MiAxNzQuMzE3NSBMIDE0LjgxOTY1NzA1Mjc1NiAxNzQuMzE3NSBMIDI0LjY5OTQyODQyMTI2IDE3NC4zMTc1IEwgMzQuNTc5MTk5Nzg5NzY0IDE3NC4zMTc1IEwgNDQuNDU4OTcxMTU4MjY4IDE3NC4zMTc1IEwgNTQuMzM4NzQyNTI2NzcyIDE3NC4zMTc1IEwgNjQuMjE4NTEzODk1Mjc2IDE3NC4zMTc1IEwgNzQuMDk4Mjg1MjYzNzggMTc0LjMxNzUgTCA4My45NzgwNTY2MzIyODQgMTc0LjMxNzUgTCA5My44NTc4MjgwMDA3ODggMTc0LjMxNzUgTCAxMDMuNzM3NTk5MzY5MjkgMTc0LjMxNzUgTCAxMTMuNjE3MzcwNzM3OCAxNzQuMzE3NSBMIDEyMy40OTcxNDIxMDYzIDE3NC4zMTc1IEwgMTMzLjM3NjkxMzQ3NDggMTc0LjMxNzUgTCAxNDMuMjU2Njg0ODQzMzEgMTc0LjMxNzUgTCAxNTMuMTM2NDU2MjExODEgMTc0LjMxNzUgTCAxNjMuMDE2MjI3NTgwMzIgMTc0LjMxNzUgTCAxNzIuODk1OTk4OTQ4ODIgMTc0LjMxNzUgTCAxODIuNzc1NzcwMzE3MzIgMTc0LjMxNzUgTCAxOTIuNjU1NTQxNjg1ODMgMTc0LjMxNzUgTCAyMDIuNTM1MzEzMDU0MzMgMTc0LjMxNzUgTCAyMTIuNDE1MDg0NDIyODQgMTc0LjMxNzUgTCAyMjIuMjk0ODU1NzkxMzQgMTc0LjMxNzUgTCAyMzIuMTc0NjI3MTU5ODQgMTc0LjMxNzUgTCAyNDIuMDU0Mzk4NTI4MzUgMTc0LjMxNzUgTCAyNTEuOTM0MTY5ODk2ODUgMTc0LjMxNzUgTCAyNjEuODEzOTQxMjY1MzYgMTc0LjMxNzUgTCAyNzEuNjkzNzEyNjMzODYgMTc0LjMxNzUgTCAyODEuNTczNDg0MDAyMzcgMTc0LjMxNzUgTCAyOTEuNDUzMjU1MzcwODcgMTc0LjMxNzUgTCAzMDEuMzMzMDI2NzM5MzcgMTc0LjMxNzUgTCAzMTEuMjEyNzk4MTA3ODggMTc0LjMxNzUgTCAzMjEuMDkyNTY5NDc2MzggMTc0LjMxNzUgTCAzMzAuOTcyMzQwODQ0ODkgMTc0LjMxNzUgTCAzNDAuODUyMTEyMjEzMzkgMTc0LjMxNzUgTCAzNTAuNzMxODgzNTgxODkgMTc0LjMxNzUgTCAzNjAuNjExNjU0OTUwNCAxNzQuMzE3NSBMIDM3MC40OTE0MjYzMTg5IDE3NC4zMTc1IEwgMzgwLjM3MTE5NzY4NzQxIDE3NC4zMTc1IEwgMzkwLjI1MDk2OTA1NTkxIDE3NC4zMTc1IEwgNDAwLjEzMDc0MDQyNDQxIDE3NC4zMTc1IEwgNDEwLjAxMDUxMTc5MjkyIDE3NC4zMTc1IEwgNDE5Ljg5MDI4MzE2MTQyIDE3NC4zMTc1IEwgNDI5Ljc3MDA1NDUyOTkzIDE3NC4zMTc1IEwgNDM5LjY0OTgyNTg5ODQzIDE3NC4zMTc1IEwgNDQ5LjUyOTU5NzI2NjkzIDE3NC4zMTc1IEwgNDU5LjQwOTM2ODYzNTQ0IDE3NC4zMTc1IEwgNDY5LjI4OTE0MDAwMzk0IDE3NC4zMTc1IEwgNDc5LjE2ODkxMTM3MjQ1IDE3NC4zMTc1IEwgNDg5LjA0ODY4Mjc0MDk1IDE3NC4zMTc1IEwgNDk4LjkyODQ1NDEwOTQ1IDE3NC4zMTc1IEwgNTA4LjgwODIyNTQ3Nzk2IDE3NC4zMTc1IiBjbGFzcz0iaGlnaGNoYXJ0cy1ncmFwaCIgZGF0YS16LWluZGV4PSIxIiBzdHJva2U9IiNEREFBMDAiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWRhc2hhcnJheT0iMiwyIi8+PC9nPjxnIGNsYXNzPSJoaWdoY2hhcnRzLW1hcmtlcnMgaGlnaGNoYXJ0cy1zZXJpZXMtMSBoaWdoY2hhcnRzLWxpbmUtc2VyaWVzIiBkYXRhLXotaW5kZXg9IjAuMSIgb3BhY2l0eT0iMSIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoNzUsODQpIHNjYWxlKDEgMSkiIGNsaXAtcGF0aD0ibm9uZSIvPjxnIGNsYXNzPSJoaWdoY2hhcnRzLXNlcmllcyBoaWdoY2hhcnRzLXNlcmllcy0yIGhpZ2hjaGFydHMtbGluZS1zZXJpZXMiIGRhdGEtei1pbmRleD0iMC4xIiBvcGFjaXR5PSIxIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSg3NSw4NCkgc2NhbGUoMSAxKSIgY2xpcC1wYXRoPSJ1cmwoI2hpZ2hjaGFydHMtdnhyYzFndC0zMTEtKSI+PHBhdGggZmlsbD0ibm9uZSIgZD0iTSA0LjkzOTg4NTY4NDI1MiAxNzIuMTc4MTI1IEwgMTQuODE5NjU3MDUyNzU2IDE3Mi4xNzgxMjUgTCAyNC42OTk0Mjg0MjEyNiAxNzIuMTc4MTI1IEwgMzQuNTc5MTk5Nzg5NzY0IDE3Mi4xNzgxMjUgTCA0NC40NTg5NzExNTgyNjggMTcyLjE3ODEyNSBMIDU0LjMzODc0MjUyNjc3MiAxNzIuMTc4MTI1IEwgNjQuMjE4NTEzODk1Mjc2IDE3Mi4xNzgxMjUgTCA3NC4wOTgyODUyNjM3OCAxNzIuMTc4MTI1IEwgODMuOTc4MDU2NjMyMjg0IDE3Mi4xNzgxMjUgTCA5My44NTc4MjgwMDA3ODggMTcyLjE3ODEyNSBMIDEwMy43Mzc1OTkzNjkyOSAxNzIuMTc4MTI1IEwgMTEzLjYxNzM3MDczNzggMTcyLjE3ODEyNSBMIDEyMy40OTcxNDIxMDYzIDE3Mi4xNzgxMjUgTCAxMzMuMzc2OTEzNDc0OCAxNzIuMTc4MTI1IEwgMTQzLjI1NjY4NDg0MzMxIDE3Mi4xNzgxMjUgTCAxNTMuMTM2NDU2MjExODEgMTcyLjE3ODEyNSBMIDE2My4wMTYyMjc1ODAzMiAxNzIuMTc4MTI1IEwgMTcyLjg5NTk5ODk0ODgyIDE3Mi4xNzgxMjUgTCAxODIuNzc1NzcwMzE3MzIgMTcyLjE3ODEyNSBMIDE5Mi42NTU1NDE2ODU4MyAxNzIuMTc4MTI1IEwgMjAyLjUzNTMxMzA1NDMzIDE3Mi4xNzgxMjUgTCAyMTIuNDE1MDg0NDIyODQgMTcyLjE3ODEyNSBMIDIyMi4yOTQ4NTU3OTEzNCAxNzIuMTc4MTI1IEwgMjMyLjE3NDYyNzE1OTg0IDE3Mi4xNzgxMjUgTCAyNDIuMDU0Mzk4NTI4MzUgMTcyLjE3ODEyNSBMIDI1MS45MzQxNjk4OTY4NSAxNzIuMTc4MTI1IEwgMjYxLjgxMzk0MTI2NTM2IDE3Mi4xNzgxMjUgTCAyNzEuNjkzNzEyNjMzODYgMTcyLjE3ODEyNSBMIDI4MS41NzM0ODQwMDIzNyAxNzIuMTc4MTI1IEwgMjkxLjQ1MzI1NTM3MDg3IDE3Mi4xNzgxMjUgTCAzMDEuMzMzMDI2NzM5MzcgMTcyLjE3ODEyNSBMIDMxMS4yMTI3OTgxMDc4OCAxNzIuMTc4MTI1IEwgMzIxLjA5MjU2OTQ3NjM4IDE3Mi4xNzgxMjUgTCAzMzAuOTcyMzQwODQ0ODkgMTcyLjE3ODEyNSBMIDM0MC44NTIxMTIyMTMzOSAxNzIuMTc4MTI1IEwgMzUwLjczMTg4MzU4MTg5IDE3Mi4xNzgxMjUgTCAzNjAuNjExNjU0OTUwNCAxNzIuMTc4MTI1IEwgMzcwLjQ5MTQyNjMxODkgMTcyLjE3ODEyNSBMIDM4MC4zNzExOTc2ODc0MSAxNzIuMTc4MTI1IEwgMzkwLjI1MDk2OTA1NTkxIDE3Mi4xNzgxMjUgTCA0MDAuMTMwNzQwNDI0NDEgMTcyLjE3ODEyNSBMIDQxMC4wMTA1MTE3OTI5MiAxNzIuMTc4MTI1IEwgNDE5Ljg5MDI4MzE2MTQyIDE3Mi4xNzgxMjUgTCA0MjkuNzcwMDU0NTI5OTMgMTcyLjE3ODEyNSBMIDQzOS42NDk4MjU4OTg0MyAxNzIuMTc4MTI1IEwgNDQ5LjUyOTU5NzI2NjkzIDE3Mi4xNzgxMjUgTCA0NTkuNDA5MzY4NjM1NDQgMTcyLjE3ODEyNSBMIDQ2OS4yODkxNDAwMDM5NCAxNzIuMTc4MTI1IEwgNDc5LjE2ODkxMTM3MjQ1IDE3Mi4xNzgxMjUgTCA0ODkuMDQ4NjgyNzQwOTUgMTcyLjE3ODEyNSBMIDQ5OC45Mjg0NTQxMDk0NSAxNzIuMTc4MTI1IEwgNTA4LjgwODIyNTQ3Nzk2IDE3Mi4xNzgxMjUiIGNsYXNzPSJoaWdoY2hhcnRzLWdyYXBoIiBkYXRhLXotaW5kZXg9IjEiIHN0cm9rZT0iIzhCMDAwMCIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtZGFzaGFycmF5PSIyLDIiLz48L2c+PGcgY2xhc3M9ImhpZ2hjaGFydHMtbWFya2VycyBoaWdoY2hhcnRzLXNlcmllcy0yIGhpZ2hjaGFydHMtbGluZS1zZXJpZXMiIGRhdGEtei1pbmRleD0iMC4xIiBvcGFjaXR5PSIxIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSg3NSw4NCkgc2NhbGUoMSAxKSIgY2xpcC1wYXRoPSJub25lIi8+PC9nPjx0ZXh0IHg9IjMwMCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgY2xhc3M9ImhpZ2hjaGFydHMtdGl0bGUiIGRhdGEtei1pbmRleD0iNCIgc3R5bGU9ImNvbG9yOiMwMDAwMDA7Zm9udC1zaXplOjE2cHg7aGVpZ2h0OjUwcHg7dGV4dC1hbGlnbjpjZW50ZXI7ZmlsbDojMDAwMDAwOyIgeT0iMjIiPjx0c3Bhbj7lhajlnIsg5Zq06YeN54m55q6K5YKz5p+T5oCn6IK654KOIOacrOWcn+eXheS+i+WPiuWig+Wkluenu+WFpeeXheS+iyDotqjli6LlnJYgKDIwMjHlubQx6YCxLTwvdHNwYW4+PHRzcGFuIGR5PSIxOSIgeD0iMzAwIj4yMDIy5bm0MjPpgLEpPC90c3Bhbj48dHNwYW4gc3R5bGU9ImZvbnQtc2l6ZTogMTRweCIgeD0iMzAwIiBkeT0iMTciPlvnmbznl4Xml6UgMjAyMS8wMS8wMy0yMDIyLzA2LzExXTwvdHNwYW4+PC90ZXh0Pjx0ZXh0IHg9IjMwMCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgY2xhc3M9ImhpZ2hjaGFydHMtc3VidGl0bGUiIGRhdGEtei1pbmRleD0iNCIgc3R5bGU9ImNvbG9yOiM2NjY2NjY7ZmlsbDojNjY2NjY2OyIgeT0iODMiLz48dGV4dCB4PSIxMCIgdGV4dC1hbmNob3I9InN0YXJ0IiBjbGFzcz0iaGlnaGNoYXJ0cy1jYXB0aW9uIiBkYXRhLXotaW5kZXg9IjQiIHN0eWxlPSJjb2xvcjojNjY2NjY2O2ZpbGw6IzY2NjY2NjsiIHk9IjM5NyIvPjxnIGNsYXNzPSJoaWdoY2hhcnRzLWxlZ2VuZCIgZGF0YS16LWluZGV4PSI3IiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgxNjksMzU2KSI+PHJlY3QgZmlsbD0ibm9uZSIgY2xhc3M9ImhpZ2hjaGFydHMtbGVnZW5kLWJveCIgcng9IjAiIHJ5PSIwIiB4PSIwIiB5PSIwIiB3aWR0aD0iMjYzIiBoZWlnaHQ9IjI5IiB2aXNpYmlsaXR5PSJ2aXNpYmxlIi8+PGcgZGF0YS16LWluZGV4PSIxIj48Zz48ZyBjbGFzcz0iaGlnaGNoYXJ0cy1sZWdlbmQtaXRlbSBoaWdoY2hhcnRzLWNvbHVtbi1zZXJpZXMgaGlnaGNoYXJ0cy1jb2xvci11bmRlZmluZWQgaGlnaGNoYXJ0cy1zZXJpZXMtMCIgZGF0YS16LWluZGV4PSIxIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSg4LDMpIj48dGV4dCB4PSIyMSIgc3R5bGU9ImNvbG9yOiMwMDAwMDA7Y3Vyc29yOnBvaW50ZXI7Zm9udC1zaXplOjEycHg7Zm9udC13ZWlnaHQ6Ym9sZDtmaWxsOiMwMDAwMDA7IiB0ZXh0LWFuY2hvcj0ic3RhcnQiIGRhdGEtei1pbmRleD0iMiIgeT0iMTUiPjx0c3Bhbj7norrlrprnl4Xkvovmlbg8L3RzcGFuPjwvdGV4dD48cmVjdCB4PSIyIiB5PSI0IiB3aWR0aD0iMTIiIGhlaWdodD0iMTIiIGZpbGw9IiNDQzAwMDAiIHJ4PSI2IiByeT0iNiIgY2xhc3M9ImhpZ2hjaGFydHMtcG9pbnQiIGRhdGEtei1pbmRleD0iMyIvPjwvZz48ZyBjbGFzcz0iaGlnaGNoYXJ0cy1sZWdlbmQtaXRlbSBoaWdoY2hhcnRzLWxpbmUtc2VyaWVzIGhpZ2hjaGFydHMtY29sb3ItdW5kZWZpbmVkIGhpZ2hjaGFydHMtc2VyaWVzLTEiIGRhdGEtei1pbmRleD0iMSIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMTA5LDMpIj48cGF0aCBmaWxsPSJub25lIiBkPSJNIDAgMTEgTCAxNiAxMSIgY2xhc3M9ImhpZ2hjaGFydHMtZ3JhcGgiIHN0cm9rZS1kYXNoYXJyYXk9IjIsMiIgc3Ryb2tlPSIjRERBQTAwIiBzdHJva2Utd2lkdGg9IjIiLz48dGV4dCB4PSIyMSIgeT0iMTUiIHN0eWxlPSJjb2xvcjojMDAwMDAwO2N1cnNvcjpwb2ludGVyO2ZvbnQtc2l6ZToxMnB4O2ZvbnQtd2VpZ2h0OmJvbGQ7ZmlsbDojMDAwMDAwOyIgdGV4dC1hbmNob3I9InN0YXJ0IiBkYXRhLXotaW5kZXg9IjIiPjx0c3Bhbj7poJDorablgLw8L3RzcGFuPjwvdGV4dD48L2c+PGcgY2xhc3M9ImhpZ2hjaGFydHMtbGVnZW5kLWl0ZW0gaGlnaGNoYXJ0cy1saW5lLXNlcmllcyBoaWdoY2hhcnRzLWNvbG9yLXVuZGVmaW5lZCBoaWdoY2hhcnRzLXNlcmllcy0yIiBkYXRhLXotaW5kZXg9IjEiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDE4NiwzKSI+PHBhdGggZmlsbD0ibm9uZSIgZD0iTSAwIDExIEwgMTYgMTEiIGNsYXNzPSJoaWdoY2hhcnRzLWdyYXBoIiBzdHJva2UtZGFzaGFycmF5PSIyLDIiIHN0cm9rZT0iIzhCMDAwMCIgc3Ryb2tlLXdpZHRoPSIyIi8+PHRleHQgeD0iMjEiIHk9IjE1IiBzdHlsZT0iY29sb3I6IzAwMDAwMDtjdXJzb3I6cG9pbnRlcjtmb250LXNpemU6MTJweDtmb250LXdlaWdodDpib2xkO2ZpbGw6IzAwMDAwMDsiIHRleHQtYW5jaG9yPSJzdGFydCIgZGF0YS16LWluZGV4PSIyIj48dHNwYW4+5rWB6KGM6Za+5YC8PC90c3Bhbj48L3RleHQ+PC9nPjwvZz48L2c+PC9nPjxnIGNsYXNzPSJoaWdoY2hhcnRzLWF4aXMtbGFiZWxzIGhpZ2hjaGFydHMteGF4aXMtbGFiZWxzIiBkYXRhLXotaW5kZXg9IjciPjx0ZXh0IHg9Ijg4LjYwNjU1MjM1MDkxODY4IiBzdHlsZT0iY29sb3I6IzAwMDAwMDtjdXJzb3I6ZGVmYXVsdDtmb250LXNpemU6MTFweDtmaWxsOiMwMDAwMDA7IiB0ZXh0LWFuY2hvcj0iZW5kIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLDApIHJvdGF0ZSgtOTAgODguNjA2NTUyMzUwOTE4NjggMjc5KSIgeT0iMjc5IiBvcGFjaXR5PSIxIj4yMDIxMDE8L3RleHQ+PHRleHQgeD0iMTI4LjEyNTYzNzgyNDkzNjY2IiBzdHlsZT0iY29sb3I6IzAwMDAwMDtjdXJzb3I6ZGVmYXVsdDtmb250LXNpemU6MTFweDtmaWxsOiMwMDAwMDA7IiB0ZXh0LWFuY2hvcj0iZW5kIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLDApIHJvdGF0ZSgtOTAgMTI4LjEyNTYzNzgyNDkzNjY2IDI3OSkiIHk9IjI3OSIgb3BhY2l0eT0iMSI+MjAyMTA1PC90ZXh0Pjx0ZXh0IHg9IjE2Ny42NDQ3MjMyOTg5NDY2NCIgc3R5bGU9ImNvbG9yOiMwMDAwMDA7Y3Vyc29yOmRlZmF1bHQ7Zm9udC1zaXplOjExcHg7ZmlsbDojMDAwMDAwOyIgdGV4dC1hbmNob3I9ImVuZCIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMCwwKSByb3RhdGUoLTkwIDE2Ny42NDQ3MjMyOTg5NDY2NCAyNzkpIiB5PSIyNzkiIG9wYWNpdHk9IjEiPjIwMjEwOTwvdGV4dD48dGV4dCB4PSIyMDcuMTYzODA4NzcyOTY2NjYiIHN0eWxlPSJjb2xvcjojMDAwMDAwO2N1cnNvcjpkZWZhdWx0O2ZvbnQtc2l6ZToxMXB4O2ZpbGw6IzAwMDAwMDsiIHRleHQtYW5jaG9yPSJlbmQiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDAsMCkgcm90YXRlKC05MCAyMDcuMTYzODA4NzcyOTY2NjYgMjc5KSIgeT0iMjc5IiBvcGFjaXR5PSIxIj4yMDIxMTM8L3RleHQ+PHRleHQgeD0iMjQ2LjY4Mjg5NDI0Njk4NjY1IiBzdHlsZT0iY29sb3I6IzAwMDAwMDtjdXJzb3I6ZGVmYXVsdDtmb250LXNpemU6MTFweDtmaWxsOiMwMDAwMDA7IiB0ZXh0LWFuY2hvcj0iZW5kIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLDApIHJvdGF0ZSgtOTAgMjQ2LjY4Mjg5NDI0Njk4NjY1IDI3OSkiIHk9IjI3OSIgb3BhY2l0eT0iMSI+MjAyMTE3PC90ZXh0Pjx0ZXh0IHg9IjI4Ni4yMDE5Nzk3MjA5OTY3IiBzdHlsZT0iY29sb3I6IzAwMDAwMDtjdXJzb3I6ZGVmYXVsdDtmb250LXNpemU6MTFweDtmaWxsOiMwMDAwMDA7IiB0ZXh0LWFuY2hvcj0iZW5kIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLDApIHJvdGF0ZSgtOTAgMjg2LjIwMTk3OTcyMDk5NjcgMjc5KSIgeT0iMjc5IiBvcGFjaXR5PSIxIj4yMDIxMjE8L3RleHQ+PHRleHQgeD0iMzI1LjcyMTA2NTE5NTAxNjciIHN0eWxlPSJjb2xvcjojMDAwMDAwO2N1cnNvcjpkZWZhdWx0O2ZvbnQtc2l6ZToxMXB4O2ZpbGw6IzAwMDAwMDsiIHRleHQtYW5jaG9yPSJlbmQiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDAsMCkgcm90YXRlKC05MCAzMjUuNzIxMDY1MTk1MDE2NyAyNzkpIiB5PSIyNzkiIG9wYWNpdHk9IjEiPjIwMjEyNTwvdGV4dD48dGV4dCB4PSIzNjUuMjQwMTUwNjY5MDM2NjciIHN0eWxlPSJjb2xvcjojMDAwMDAwO2N1cnNvcjpkZWZhdWx0O2ZvbnQtc2l6ZToxMXB4O2ZpbGw6IzAwMDAwMDsiIHRleHQtYW5jaG9yPSJlbmQiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDAsMCkgcm90YXRlKC05MCAzNjUuMjQwMTUwNjY5MDM2NjcgMjc5KSIgeT0iMjc5IiBvcGFjaXR5PSIxIj4yMDIxMjk8L3RleHQ+PHRleHQgeD0iNDA0Ljc1OTIzNjE0MzA0NjciIHN0eWxlPSJjb2xvcjojMDAwMDAwO2N1cnNvcjpkZWZhdWx0O2ZvbnQtc2l6ZToxMXB4O2ZpbGw6IzAwMDAwMDsiIHRleHQtYW5jaG9yPSJlbmQiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDAsMCkgcm90YXRlKC05MCA0MDQuNzU5MjM2MTQzMDQ2NyAyNzkpIiB5PSIyNzkiIG9wYWNpdHk9IjEiPjIwMjEzMzwvdGV4dD48dGV4dCB4PSI0NDQuMjc4MzIxNjE3MDY2NyIgc3R5bGU9ImNvbG9yOiMwMDAwMDA7Y3Vyc29yOmRlZmF1bHQ7Zm9udC1zaXplOjExcHg7ZmlsbDojMDAwMDAwOyIgdGV4dC1hbmNob3I9ImVuZCIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMCwwKSByb3RhdGUoLTkwIDQ0NC4yNzgzMjE2MTcwNjY3IDI3OSkiIHk9IjI3OSIgb3BhY2l0eT0iMSI+MjAyMTM3PC90ZXh0Pjx0ZXh0IHg9IjQ4My43OTc0MDcwOTEwNzY3IiBzdHlsZT0iY29sb3I6IzAwMDAwMDtjdXJzb3I6ZGVmYXVsdDtmb250LXNpemU6MTFweDtmaWxsOiMwMDAwMDA7IiB0ZXh0LWFuY2hvcj0iZW5kIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLDApIHJvdGF0ZSgtOTAgNDgzLjc5NzQwNzA5MTA3NjcgMjc5KSIgeT0iMjc5IiBvcGFjaXR5PSIxIj4yMDIxNDE8L3RleHQ+PHRleHQgeD0iNTIzLjMxNjQ5MjU2NTA5NjYiIHN0eWxlPSJjb2xvcjojMDAwMDAwO2N1cnNvcjpkZWZhdWx0O2ZvbnQtc2l6ZToxMXB4O2ZpbGw6IzAwMDAwMDsiIHRleHQtYW5jaG9yPSJlbmQiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDAsMCkgcm90YXRlKC05MCA1MjMuMzE2NDkyNTY1MDk2NiAyNzkpIiB5PSIyNzkiIG9wYWNpdHk9IjEiPjIwMjE0NTwvdGV4dD48dGV4dCB4PSI1NjIuODM1NTc4MDM5MTE2NiIgc3R5bGU9ImNvbG9yOiMwMDAwMDA7Y3Vyc29yOmRlZmF1bHQ7Zm9udC1zaXplOjExcHg7ZmlsbDojMDAwMDAwOyIgdGV4dC1hbmNob3I9ImVuZCIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMCwwKSByb3RhdGUoLTkwIDU2Mi44MzU1NzgwMzkxMTY2IDI3OSkiIHk9IjI3OSIgb3BhY2l0eT0iMSI+MjAyMTQ5PC90ZXh0Pjx0ZXh0IHg9IjEwOC4zNjYwOTUwODc5MjY2NyIgc3R5bGU9ImNvbG9yOiMwMDAwMDA7Y3Vyc29yOmRlZmF1bHQ7Zm9udC1zaXplOjExcHg7ZmlsbDojMDAwMDAwOyIgdGV4dC1hbmNob3I9ImVuZCIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMCwwKSByb3RhdGUoLTkwIDEwOC4zNjYwOTUwODc5MjY2NyAyNzkpIiB5PSIyNzkiIG9wYWNpdHk9IjEiPjIwMjEwMzwvdGV4dD48dGV4dCB4PSIxNDcuODg1MTgwNTYxOTQ2NjciIHN0eWxlPSJjb2xvcjojMDAwMDAwO2N1cnNvcjpkZWZhdWx0O2ZvbnQtc2l6ZToxMXB4O2ZpbGw6IzAwMDAwMDsiIHRleHQtYW5jaG9yPSJlbmQiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDAsMCkgcm90YXRlKC05MCAxNDcuODg1MTgwNTYxOTQ2NjcgMjc5KSIgeT0iMjc5IiBvcGFjaXR5PSIxIj4yMDIxMDc8L3RleHQ+PHRleHQgeD0iMTg3LjQwNDI2NjAzNTk1NjY1IiBzdHlsZT0iY29sb3I6IzAwMDAwMDtjdXJzb3I6ZGVmYXVsdDtmb250LXNpemU6MTFweDtmaWxsOiMwMDAwMDA7IiB0ZXh0LWFuY2hvcj0iZW5kIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLDApIHJvdGF0ZSgtOTAgMTg3LjQwNDI2NjAzNTk1NjY1IDI3OSkiIHk9IjI3OSIgb3BhY2l0eT0iMSI+MjAyMTExPC90ZXh0Pjx0ZXh0IHg9IjIyNi45MjMzNTE1MDk5NzY2NyIgc3R5bGU9ImNvbG9yOiMwMDAwMDA7Y3Vyc29yOmRlZmF1bHQ7Zm9udC1zaXplOjExcHg7ZmlsbDojMDAwMDAwOyIgdGV4dC1hbmNob3I9ImVuZCIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMCwwKSByb3RhdGUoLTkwIDIyNi45MjMzNTE1MDk5NzY2NyAyNzkpIiB5PSIyNzkiIG9wYWNpdHk9IjEiPjIwMjExNTwvdGV4dD48dGV4dCB4PSIyNjYuNDQyNDM2OTgzOTg2NyIgc3R5bGU9ImNvbG9yOiMwMDAwMDA7Y3Vyc29yOmRlZmF1bHQ7Zm9udC1zaXplOjExcHg7ZmlsbDojMDAwMDAwOyIgdGV4dC1hbmNob3I9ImVuZCIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMCwwKSByb3RhdGUoLTkwIDI2Ni40NDI0MzY5ODM5ODY3IDI3OSkiIHk9IjI3OSIgb3BhY2l0eT0iMSI+MjAyMTE5PC90ZXh0Pjx0ZXh0IHg9IjMwNS45NjE1MjI0NTgwMDY3IiBzdHlsZT0iY29sb3I6IzAwMDAwMDtjdXJzb3I6ZGVmYXVsdDtmb250LXNpemU6MTFweDtmaWxsOiMwMDAwMDA7IiB0ZXh0LWFuY2hvcj0iZW5kIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLDApIHJvdGF0ZSgtOTAgMzA1Ljk2MTUyMjQ1ODAwNjcgMjc5KSIgeT0iMjc5IiBvcGFjaXR5PSIxIj4yMDIxMjM8L3RleHQ+PHRleHQgeD0iMzQ1LjQ4MDYwNzkzMjAyNjY2IiBzdHlsZT0iY29sb3I6IzAwMDAwMDtjdXJzb3I6ZGVmYXVsdDtmb250LXNpemU6MTFweDtmaWxsOiMwMDAwMDA7IiB0ZXh0LWFuY2hvcj0iZW5kIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLDApIHJvdGF0ZSgtOTAgMzQ1LjQ4MDYwNzkzMjAyNjY2IDI3OSkiIHk9IjI3OSIgb3BhY2l0eT0iMSI+MjAyMTI3PC90ZXh0Pjx0ZXh0IHg9IjM4NC45OTk2OTM0MDYwMzY2NyIgc3R5bGU9ImNvbG9yOiMwMDAwMDA7Y3Vyc29yOmRlZmF1bHQ7Zm9udC1zaXplOjExcHg7ZmlsbDojMDAwMDAwOyIgdGV4dC1hbmNob3I9ImVuZCIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMCwwKSByb3RhdGUoLTkwIDM4NC45OTk2OTM0MDYwMzY2NyAyNzkpIiB5PSIyNzkiIG9wYWNpdHk9IjEiPjIwMjEzMTwvdGV4dD48dGV4dCB4PSI0MjQuNTE4Nzc4ODgwMDU2NyIgc3R5bGU9ImNvbG9yOiMwMDAwMDA7Y3Vyc29yOmRlZmF1bHQ7Zm9udC1zaXplOjExcHg7ZmlsbDojMDAwMDAwOyIgdGV4dC1hbmNob3I9ImVuZCIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMCwwKSByb3RhdGUoLTkwIDQyNC41MTg3Nzg4ODAwNTY3IDI3OSkiIHk9IjI3OSIgb3BhY2l0eT0iMSI+MjAyMTM1PC90ZXh0Pjx0ZXh0IHg9IjQ2NC4wMzc4NjQzNTQwNzY3IiBzdHlsZT0iY29sb3I6IzAwMDAwMDtjdXJzb3I6ZGVmYXVsdDtmb250LXNpemU6MTFweDtmaWxsOiMwMDAwMDA7IiB0ZXh0LWFuY2hvcj0iZW5kIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLDApIHJvdGF0ZSgtOTAgNDY0LjAzNzg2NDM1NDA3NjcgMjc5KSIgeT0iMjc5IiBvcGFjaXR5PSIxIj4yMDIxMzk8L3RleHQ+PHRleHQgeD0iNTAzLjU1Njk0OTgyODA4NjY2IiBzdHlsZT0iY29sb3I6IzAwMDAwMDtjdXJzb3I6ZGVmYXVsdDtmb250LXNpemU6MTFweDtmaWxsOiMwMDAwMDA7IiB0ZXh0LWFuY2hvcj0iZW5kIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLDApIHJvdGF0ZSgtOTAgNTAzLjU1Njk0OTgyODA4NjY2IDI3OSkiIHk9IjI3OSIgb3BhY2l0eT0iMSI+MjAyMTQzPC90ZXh0Pjx0ZXh0IHg9IjU0My4wNzYwMzUzMDIxMDY3IiBzdHlsZT0iY29sb3I6IzAwMDAwMDtjdXJzb3I6ZGVmYXVsdDtmb250LXNpemU6MTFweDtmaWxsOiMwMDAwMDA7IiB0ZXh0LWFuY2hvcj0iZW5kIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLDApIHJvdGF0ZSgtOTAgNTQzLjA3NjAzNTMwMjEwNjcgMjc5KSIgeT0iMjc5IiBvcGFjaXR5PSIxIj4yMDIxNDc8L3RleHQ+PHRleHQgeD0iNTgyLjU5NTEyMDc3NjExNjYiIHN0eWxlPSJjb2xvcjojMDAwMDAwO2N1cnNvcjpkZWZhdWx0O2ZvbnQtc2l6ZToxMXB4O2ZpbGw6IzAwMDAwMDsiIHRleHQtYW5jaG9yPSJlbmQiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDAsMCkgcm90YXRlKC05MCA1ODIuNTk1MTIwNzc2MTE2NiAyNzkpIiB5PSIyNzkiIG9wYWNpdHk9IjEiPjIwMjE1MTwvdGV4dD48L2c+PGcgY2xhc3M9ImhpZ2hjaGFydHMtYXhpcy1sYWJlbHMgaGlnaGNoYXJ0cy15YXhpcy1sYWJlbHMiIGRhdGEtei1pbmRleD0iNyI+PHRleHQgeD0iNjAiIHN0eWxlPSJjb2xvcjojMDAwO2N1cnNvcjpkZWZhdWx0O2ZvbnQtc2l6ZToxMXB4O2ZpbGw6IzAwMDsiIHRleHQtYW5jaG9yPSJlbmQiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDAsMCkiIHk9IjI2MiIgb3BhY2l0eT0iMSI+MDwvdGV4dD48dGV4dCB4PSI2MCIgc3R5bGU9ImNvbG9yOiMwMDA7Y3Vyc29yOmRlZmF1bHQ7Zm9udC1zaXplOjExcHg7ZmlsbDojMDAwOyIgdGV4dC1hbmNob3I9ImVuZCIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMCwwKSIgeT0iMjE4IiBvcGFjaXR5PSIxIj4xMDAwPC90ZXh0Pjx0ZXh0IHg9IjYwIiBzdHlsZT0iY29sb3I6IzAwMDtjdXJzb3I6ZGVmYXVsdDtmb250LXNpemU6MTFweDtmaWxsOiMwMDA7IiB0ZXh0LWFuY2hvcj0iZW5kIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLDApIiB5PSIxNzUiIG9wYWNpdHk9IjEiPjIwMDA8L3RleHQ+PHRleHQgeD0iNjAiIHN0eWxlPSJjb2xvcjojMDAwO2N1cnNvcjpkZWZhdWx0O2ZvbnQtc2l6ZToxMXB4O2ZpbGw6IzAwMDsiIHRleHQtYW5jaG9yPSJlbmQiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDAsMCkiIHk9IjEzMSIgb3BhY2l0eT0iMSI+MzAwMDwvdGV4dD48dGV4dCB4PSI2MCIgc3R5bGU9ImNvbG9yOiMwMDA7Y3Vyc29yOmRlZmF1bHQ7Zm9udC1zaXplOjExcHg7ZmlsbDojMDAwOyIgdGV4dC1hbmNob3I9ImVuZCIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMCwwKSIgeT0iODciIG9wYWNpdHk9IjEiPjQwMDA8L3RleHQ+PC9nPjx0ZXh0IHg9IjU5MCIgY2xhc3M9ImhpZ2hjaGFydHMtY3JlZGl0cyIgdGV4dC1hbmNob3I9ImVuZCIgZGF0YS16LWluZGV4PSI4IiBzdHlsZT0iY3Vyc29yOnBvaW50ZXI7Y29sb3I6Izk5OTk5OTtmb250LXNpemU6MTBweDtmaWxsOiM5OTk5OTk7IiB5PSIzOTAiPjx0c3Bhbj5UYWl3YW4gQ0RDIDIwMjI8L3RzcGFuPjwvdGV4dD48L3N2Zz4=" preserveAspectRatio="none"/>
+        <path d="M 240 100 L 240 70 L 440 70 L 440 100" fill="#10739e" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 240 100 L 240 280 L 440 280 L 440 100" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 240 100 L 440 100" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 320 100 L 320 136 L 320 172 L 320 208 L 320 244 L 320 280" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <g fill="#FFFFFF" font-family="Helvetica" font-weight="bold" text-anchor="middle" font-size="18px">
+            <text x="339.5" y="92.5">
+                110Q2
+            </text>
+        </g>
+        <path d="M 240 100 M 440 100 M 440 136 M 240 136" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <rect x="240" y="100" width="80" height="36" fill="#b1ddf0" stroke="none" pointer-events="none"/>
+        <path d="M 240 100 M 320 100 M 320 136 M 240 136" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" font-weight="bold" pointer-events="none" clip-path="url(#mx-clip-248-108-64-20-0)" font-size="14px">
+            <text x="249.5" y="123.5">
+                原則異動
+            </text>
+        </g>
+        <rect x="320" y="100" width="120" height="36" fill="#b1ddf0" stroke="none" pointer-events="none"/>
+        <path d="M 320 100 M 440 100 M 440 136 M 320 136" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-334-108-98-20-0)" text-anchor="middle" font-size="14px">
+            <text x="382.5" y="123.5">
+                降載
+            </text>
+        </g>
+        <path d="M 240 136 M 440 136 M 440 172 M 240 172" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <rect x="240" y="136" width="80" height="36" fill="#e8fdfd" stroke="none" pointer-events="none"/>
+        <path d="M 240 136 M 320 136 M 320 172 M 240 172" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" font-weight="bold" pointer-events="none" clip-path="url(#mx-clip-248-144-64-20-0)" font-size="14px">
+            <text x="249.5" y="159.5">
+                參照基準
+            </text>
+        </g>
+        <rect x="320" y="136" width="120" height="36" fill="#e8fdfd" stroke="none" pointer-events="none"/>
+        <path d="M 320 136 M 440 136 M 440 172 M 320 172" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-334-144-98-20-0)" text-anchor="middle" font-size="14px">
+            <text x="382.5" y="159.5">
+                108Q2
+            </text>
+        </g>
+        <path d="M 240 172 M 440 172 M 440 208 M 240 208" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <rect x="240" y="172" width="80" height="36" fill="#b1ddf0" stroke="none" pointer-events="none"/>
+        <path d="M 240 172 M 320 172 M 320 208 M 240 208" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" font-weight="bold" pointer-events="none" clip-path="url(#mx-clip-248-180-64-20-0)" font-size="14px">
+            <text x="249.5" y="195.5">
+                保障
+            </text>
+        </g>
+        <rect x="320" y="172" width="120" height="36" fill="#b1ddf0" stroke="none" pointer-events="none"/>
+        <path d="M 320 172 M 440 172 M 440 208 M 320 208" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-334-180-98-20-0)" text-anchor="middle" font-size="14px">
+            <text x="382.5" y="195.5">
+                85%
+            </text>
+        </g>
+        <path d="M 240 208 M 440 208 M 440 244 M 240 244" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <rect x="240" y="208" width="80" height="36" fill="#e8fdfd" stroke="none" pointer-events="none"/>
+        <path d="M 240 208 M 320 208 M 320 244 M 240 244" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" font-weight="bold" pointer-events="none" clip-path="url(#mx-clip-248-216-64-20-0)" font-size="14px">
+            <text x="249.5" y="231.5">
+                上限
+            </text>
+        </g>
+        <rect x="320" y="208" width="120" height="36" fill="#e8fdfd" stroke="none" pointer-events="none"/>
+        <path d="M 320 208 M 440 208 M 440 244 M 320 244" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-334-216-98-20-0)" text-anchor="middle" font-size="14px">
+            <text x="382.5" y="231.5">
+                95%
+            </text>
+        </g>
+        <path d="M 240 244 M 440 244 M 440 280 M 240 280" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <rect x="240" y="244" width="80" height="36" fill="#b1ddf0" stroke="none" pointer-events="none"/>
+        <path d="M 240 244 M 320 244 M 320 280 M 240 280" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" font-weight="bold" pointer-events="none" clip-path="url(#mx-clip-248-252-64-20-0)" font-size="14px">
+            <text x="249.5" y="267.5">
+                攤扣
+            </text>
+        </g>
+        <rect x="320" y="244" width="120" height="36" fill="#b1ddf0" stroke="none" pointer-events="none"/>
+        <path d="M 320 244 M 440 244 M 440 280 M 320 280" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-334-252-98-20-0)" text-anchor="middle" font-size="14px">
+            <text x="382.5" y="267.5">
+                無
+            </text>
+        </g>
+        <path d="M 0 100 L 0 70 L 200 70 L 200 100" fill="#10739e" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 0 100 L 0 280 L 200 280 L 200 100" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 0 100 L 200 100" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 80 100 L 80 136 L 80 172 L 80 208 L 80 244 L 80 280" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#FFFFFF" font-family="Helvetica" font-weight="bold" pointer-events="none" text-anchor="middle" font-size="18px">
+            <text x="99.5" y="92.5">
+                110Q1
+            </text>
+        </g>
+        <path d="M 0 100 M 200 100 M 200 136 M 0 136" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <rect x="0" y="100" width="80" height="36" fill="#b1ddf0" stroke="none" pointer-events="none"/>
+        <path d="M 0 100 M 80 100 M 80 136 M 0 136" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" font-weight="bold" pointer-events="none" clip-path="url(#mx-clip-8-108-64-20-0)" font-size="14px">
+            <text x="9.5" y="123.5">
+                原則異動
+            </text>
+        </g>
+        <rect x="80" y="100" width="120" height="36" fill="#b1ddf0" stroke="none" pointer-events="none"/>
+        <path d="M 80 100 M 200 100 M 200 136 M 80 136" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-94-108-98-20-0)" text-anchor="middle" font-size="14px">
+            <text x="142.5" y="123.5">
+                無
+            </text>
+        </g>
+        <path d="M 0 136 M 200 136 M 200 172 M 0 172" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <rect x="0" y="136" width="80" height="36" fill="#e8fdfd" stroke="none" pointer-events="none"/>
+        <path d="M 0 136 M 80 136 M 80 172 M 0 172" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" font-weight="bold" pointer-events="none" clip-path="url(#mx-clip-8-144-64-20-0)" font-size="14px">
+            <text x="9.5" y="159.5">
+                參照基準
+            </text>
+        </g>
+        <rect x="80" y="136" width="120" height="36" fill="#e8fdfd" stroke="none" pointer-events="none"/>
+        <path d="M 80 136 M 200 136 M 200 172 M 80 172" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-94-144-98-20-0)" text-anchor="middle" font-size="14px">
+            <text x="142.5" y="159.5">
+                無
+            </text>
+        </g>
+        <path d="M 0 172 M 200 172 M 200 208 M 0 208" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <rect x="0" y="172" width="80" height="36" fill="#b1ddf0" stroke="none" pointer-events="none"/>
+        <path d="M 0 172 M 80 172 M 80 208 M 0 208" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" font-weight="bold" pointer-events="none" clip-path="url(#mx-clip-8-180-64-20-0)" font-size="14px">
+            <text x="9.5" y="195.5">
+                保障
+            </text>
+        </g>
+        <rect x="80" y="172" width="120" height="36" fill="#b1ddf0" stroke="none" pointer-events="none"/>
+        <path d="M 80 172 M 200 172 M 200 208 M 80 208" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-94-180-98-20-0)" text-anchor="middle" font-size="14px">
+            <text x="142.5" y="195.5">
+                無
+            </text>
+        </g>
+        <path d="M 0 208 M 200 208 M 200 244 M 0 244" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <rect x="0" y="208" width="80" height="36" fill="#e8fdfd" stroke="none" pointer-events="none"/>
+        <path d="M 0 208 M 80 208 M 80 244 M 0 244" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" font-weight="bold" pointer-events="none" clip-path="url(#mx-clip-8-216-64-20-0)" font-size="14px">
+            <text x="9.5" y="231.5">
+                上限
+            </text>
+        </g>
+        <rect x="80" y="208" width="120" height="36" fill="#e8fdfd" stroke="none" pointer-events="none"/>
+        <path d="M 80 208 M 200 208 M 200 244 M 80 244" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-94-216-98-20-0)" text-anchor="middle" font-size="14px">
+            <text x="142.5" y="231.5">
+                無
+            </text>
+        </g>
+        <path d="M 0 244 M 200 244 M 200 280 M 0 280" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <rect x="0" y="244" width="80" height="36" fill="#b1ddf0" stroke="none" pointer-events="none"/>
+        <path d="M 0 244 M 80 244 M 80 280 M 0 280" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" font-weight="bold" pointer-events="none" clip-path="url(#mx-clip-8-252-64-20-0)" font-size="14px">
+            <text x="9.5" y="267.5">
+                攤扣
+            </text>
+        </g>
+        <rect x="80" y="244" width="120" height="36" fill="#b1ddf0" stroke="none" pointer-events="none"/>
+        <path d="M 80 244 M 200 244 M 200 280 M 80 280" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-94-252-98-20-0)" text-anchor="middle" font-size="14px">
+            <text x="142.5" y="267.5">
+                無
+            </text>
+        </g>
+        <path d="M 480 100 L 480 70 L 680 70 L 680 100" fill="#10739e" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 480 100 L 480 280 L 680 280 L 680 100" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 480 100 L 680 100" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 560 100 L 560 136 L 560 172 L 560 208 L 560 244 L 560 280" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#FFFFFF" font-family="Helvetica" font-weight="bold" pointer-events="none" text-anchor="middle" font-size="18px">
+            <text x="579.5" y="92.5">
+                110Q3
+            </text>
+        </g>
+        <path d="M 480 100 M 680 100 M 680 136 M 480 136" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <rect x="480" y="100" width="80" height="36" fill="#b1ddf0" stroke="none" pointer-events="none"/>
+        <path d="M 480 100 M 560 100 M 560 136 M 480 136" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" font-weight="bold" pointer-events="none" clip-path="url(#mx-clip-488-108-64-20-0)" font-size="14px">
+            <text x="489.5" y="123.5">
+                原則異動
+            </text>
+        </g>
+        <rect x="560" y="100" width="120" height="36" fill="#b1ddf0" stroke="none" pointer-events="none"/>
+        <path d="M 560 100 M 680 100 M 680 136 M 560 136" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-574-108-98-20-0)" text-anchor="middle" font-size="14px">
+            <text x="622.5" y="123.5">
+                降載
+            </text>
+        </g>
+        <path d="M 480 136 M 680 136 M 680 172 M 480 172" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <rect x="480" y="136" width="80" height="36" fill="#e8fdfd" stroke="none" pointer-events="none"/>
+        <path d="M 480 136 M 560 136 M 560 172 M 480 172" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" font-weight="bold" pointer-events="none" clip-path="url(#mx-clip-488-144-64-20-0)" font-size="14px">
+            <text x="489.5" y="159.5">
+                參照基準
+            </text>
+        </g>
+        <rect x="560" y="136" width="120" height="36" fill="#e8fdfd" stroke="none" pointer-events="none"/>
+        <path d="M 560 136 M 680 136 M 680 172 M 560 172" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-574-144-98-20-0)" text-anchor="middle" font-size="14px">
+            <text x="622.5" y="159.5">
+                109Q3
+            </text>
+        </g>
+        <path d="M 480 172 M 680 172 M 680 208 M 480 208" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <rect x="480" y="172" width="80" height="36" fill="#b1ddf0" stroke="none" pointer-events="none"/>
+        <path d="M 480 172 M 560 172 M 560 208 M 480 208" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" font-weight="bold" pointer-events="none" clip-path="url(#mx-clip-488-180-64-20-0)" font-size="14px">
+            <text x="489.5" y="195.5">
+                保障
+            </text>
+        </g>
+        <rect x="560" y="172" width="120" height="36" fill="#b1ddf0" stroke="none" pointer-events="none"/>
+        <path d="M 560 172 M 680 172 M 680 208 M 560 208" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-574-180-98-20-0)" text-anchor="middle" font-size="14px">
+            <text x="622.5" y="195.5">
+                90%
+            </text>
+        </g>
+        <path d="M 480 208 M 680 208 M 680 244 M 480 244" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <rect x="480" y="208" width="80" height="36" fill="#e8fdfd" stroke="none" pointer-events="none"/>
+        <path d="M 480 208 M 560 208 M 560 244 M 480 244" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" font-weight="bold" pointer-events="none" clip-path="url(#mx-clip-488-216-64-20-0)" font-size="14px">
+            <text x="489.5" y="231.5">
+                上限
+            </text>
+        </g>
+        <rect x="560" y="208" width="120" height="36" fill="#e8fdfd" stroke="none" pointer-events="none"/>
+        <path d="M 560 208 M 680 208 M 680 244 M 560 244" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-560-208-120-36-0)" text-anchor="middle" font-size="14px">
+            <text x="619.5" y="231.5">
+                核定上限*0.9532
+            </text>
+        </g>
+        <path d="M 480 244 M 680 244 M 680 280 M 480 280" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <rect x="480" y="244" width="80" height="36" fill="#b1ddf0" stroke="none" pointer-events="none"/>
+        <path d="M 480 244 M 560 244 M 560 280 M 480 280" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" font-weight="bold" pointer-events="none" clip-path="url(#mx-clip-488-252-64-20-0)" font-size="14px">
+            <text x="489.5" y="267.5">
+                攤扣
+            </text>
+        </g>
+        <rect x="560" y="244" width="120" height="36" fill="#b1ddf0" stroke="none" pointer-events="none"/>
+        <path d="M 560 244 M 680 244 M 680 280 M 560 280" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-574-252-98-20-0)" text-anchor="middle" font-size="13px">
+            <text x="622.5" y="267">
+                無
+            </text>
+        </g>
+        <path d="M 720 100 L 720 70 L 920 70 L 920 100" fill="#10739e" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 720 100 L 720 280 L 920 280 L 920 100" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 720 100 L 920 100" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 800 100 L 800 136 L 800 172 L 800 208 L 800 244 L 800 280" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#FFFFFF" font-family="Helvetica" font-weight="bold" pointer-events="none" text-anchor="middle" font-size="18px">
+            <text x="819.5" y="92.5">
+                110Q4
+            </text>
+        </g>
+        <path d="M 720 100 M 920 100 M 920 136 M 720 136" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <rect x="720" y="100" width="80" height="36" fill="#b1ddf0" stroke="none" pointer-events="none"/>
+        <path d="M 720 100 M 800 100 M 800 136 M 720 136" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" font-weight="bold" pointer-events="none" clip-path="url(#mx-clip-728-108-64-20-0)" font-size="14px">
+            <text x="729.5" y="123.5">
+                原則異動
+            </text>
+        </g>
+        <rect x="800" y="100" width="120" height="36" fill="#b1ddf0" stroke="none" pointer-events="none"/>
+        <path d="M 800 100 M 920 100 M 920 136 M 800 136" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-814-108-98-20-0)" text-anchor="middle" font-size="14px">
+            <text x="862.5" y="123.5">
+                降載
+            </text>
+        </g>
+        <path d="M 720 136 M 920 136 M 920 172 M 720 172" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <rect x="720" y="136" width="80" height="36" fill="#e8fdfd" stroke="none" pointer-events="none"/>
+        <path d="M 720 136 M 800 136 M 800 172 M 720 172" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" font-weight="bold" pointer-events="none" clip-path="url(#mx-clip-728-144-64-20-0)" font-size="14px">
+            <text x="729.5" y="159.5">
+                參照基準
+            </text>
+        </g>
+        <rect x="800" y="136" width="120" height="36" fill="#e8fdfd" stroke="none" pointer-events="none"/>
+        <path d="M 800 136 M 920 136 M 920 172 M 800 172" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-814-144-98-20-0)" text-anchor="middle" font-size="14px">
+            <text x="862.5" y="159.5">
+                0.951 點值回推
+            </text>
+        </g>
+        <path d="M 720 172 M 920 172 M 920 208 M 720 208" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <rect x="720" y="172" width="80" height="36" fill="#b1ddf0" stroke="none" pointer-events="none"/>
+        <path d="M 720 172 M 800 172 M 800 208 M 720 208" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" font-weight="bold" pointer-events="none" clip-path="url(#mx-clip-728-180-64-20-0)" font-size="14px">
+            <text x="729.5" y="195.5">
+                保障
+            </text>
+        </g>
+        <rect x="800" y="172" width="120" height="36" fill="#b1ddf0" stroke="none" pointer-events="none"/>
+        <path d="M 800 172 M 920 172 M 920 208 M 800 208" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-814-180-98-20-0)" text-anchor="middle" font-size="14px">
+            <text x="862.5" y="195.5">
+                90%
+            </text>
+        </g>
+        <path d="M 720 208 M 920 208 M 920 244 M 720 244" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <rect x="720" y="208" width="80" height="36" fill="#e8fdfd" stroke="none" pointer-events="none"/>
+        <path d="M 720 208 M 800 208 M 800 244 M 720 244" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" font-weight="bold" pointer-events="none" clip-path="url(#mx-clip-728-216-64-20-0)" font-size="14px">
+            <text x="729.5" y="231.5">
+                上限
+            </text>
+        </g>
+        <rect x="800" y="208" width="120" height="36" fill="#e8fdfd" stroke="none" pointer-events="none"/>
+        <path d="M 800 208 M 920 208 M 920 244 M 800 244" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-814-216-98-20-0)" text-anchor="middle" font-size="13px">
+            <text x="862.5" y="231">
+                超出攤扣
+            </text>
+        </g>
+        <path d="M 720 244 M 920 244 M 920 280 M 720 280" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <rect x="720" y="244" width="80" height="36" fill="#b1ddf0" stroke="none" pointer-events="none"/>
+        <path d="M 720 244 M 800 244 M 800 280 M 720 280" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" font-weight="bold" pointer-events="none" clip-path="url(#mx-clip-728-252-64-20-0)" font-size="14px">
+            <text x="729.5" y="267.5">
+                攤扣
+            </text>
+        </g>
+        <rect x="800" y="244" width="120" height="36" fill="#b1ddf0" stroke="none" pointer-events="none"/>
+        <path d="M 800 244 M 920 244 M 920 280 M 800 280" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-814-252-98-20-0)" text-anchor="middle" font-size="13px">
+            <text x="862.5" y="267">
+                有
+            </text>
+        </g>
+        <rect x="0" y="0" width="480" height="50" fill="#0066cc" stroke="none" pointer-events="none"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 478px; height: 1px; padding-top: 25px; margin-left: 1px;">
+                        <div data-drawio-colors="color: #FFFFFF; " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 36px; font-family: Helvetica; color: rgb(255, 255, 255); line-height: 1.2; pointer-events: none; white-space: normal; overflow-wrap: normal;">
+                                110年各季總額管理異動情形
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="240" y="36" fill="#FFFFFF" font-family="Helvetica" font-size="36px" text-anchor="middle">
+                    110年各季總額管理異動情形
+                </text>
+            </switch>
+        </g>
+        <path d="M 290.13 710.05 L 239.8 288.68" fill="none" stroke="rgb(0, 0, 0)" stroke-width="3" stroke-miterlimit="10" stroke-dasharray="3 9" pointer-events="none"/>
+        <path d="M 899.77 700.25 L 918 280.07" fill="none" stroke="rgb(0, 0, 0)" stroke-width="3" stroke-miterlimit="10" stroke-dasharray="3 9" pointer-events="none"/>
+        <image x="-0.5" y="1359.5" width="929.11" height="620" xlink:href="data:image/svg+xml;base64,PHN2ZyB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2ZXJzaW9uPSIxLjEiIGNsYXNzPSJoaWdoY2hhcnRzLXJvb3QiIHN0eWxlPSJmb250LWZhbWlseTonTm90byBTYW5zIFRDJywgc2Fucy1zZXJpZiwgJ09wZW4gU2Fucyc7Zm9udC1zaXplOjEycHg7IiB3aWR0aD0iNjAwIiBoZWlnaHQ9IjQwMCIgdmlld0JveD0iMCAwIDYwMCA0MDAiPjxkZXNjPkNyZWF0ZWQgd2l0aCBIaWdoY2hhcnRzIDguMi4yPC9kZXNjPjxkZWZzPjxjbGlwUGF0aCBpZD0iaGlnaGNoYXJ0cy12eHJjMWd0LTQ2My0iPjxyZWN0IHg9IjAiIHk9IjAiIHdpZHRoPSI1MDIiIGhlaWdodD0iMTc1IiBmaWxsPSJub25lIi8+PC9jbGlwUGF0aD48Y2xpcFBhdGggaWQ9ImhpZ2hjaGFydHMtdnhyYzFndC01MzktIj48cmVjdCB4PSIwIiB5PSIwIiB3aWR0aD0iNTAyIiBoZWlnaHQ9IjE3NSIgZmlsbD0ibm9uZSIvPjwvY2xpcFBhdGg+PC9kZWZzPjxyZWN0IGZpbGw9IiNGRkZGRkYiIGNsYXNzPSJoaWdoY2hhcnRzLWJhY2tncm91bmQiIHg9IjAiIHk9IjAiIHdpZHRoPSI2MDAiIGhlaWdodD0iNDAwIiByeD0iMCIgcnk9IjAiLz48cmVjdCBmaWxsPSIjRkZGRkZGIiBjbGFzcz0iaGlnaGNoYXJ0cy1wbG90LWJhY2tncm91bmQiIHg9Ijg4IiB5PSI4NCIgd2lkdGg9IjUwMiIgaGVpZ2h0PSIxNzUiLz48ZyBjbGFzcz0iaGlnaGNoYXJ0cy1wbG90LWxpbmVzLTAiIGRhdGEtei1pbmRleD0iMCI+PHBhdGggZmlsbD0ibm9uZSIgY2xhc3M9ImhpZ2hjaGFydHMtcGxvdC1saW5lICIgZD0iTSA4OCAyNTkuNSBMIDU5MCAyNTkuNSIvPjwvZz48ZyBjbGFzcz0iaGlnaGNoYXJ0cy1ncmlkIGhpZ2hjaGFydHMteGF4aXMtZ3JpZCIgZGF0YS16LWluZGV4PSIxIj48cGF0aCBmaWxsPSJub25lIiBkYXRhLXotaW5kZXg9IjEiIGNsYXNzPSJoaWdoY2hhcnRzLWdyaWQtbGluZSIgZD0iTSAxMDcuNSA4NCBMIDEwNy41IDI1OSIgb3BhY2l0eT0iMSIvPjxwYXRoIGZpbGw9Im5vbmUiIGRhdGEtei1pbmRleD0iMSIgY2xhc3M9ImhpZ2hjaGFydHMtZ3JpZC1saW5lIiBkPSJNIDE5My41IDg0IEwgMTkzLjUgMjU5IiBvcGFjaXR5PSIxIi8+PHBhdGggZmlsbD0ibm9uZSIgZGF0YS16LWluZGV4PSIxIiBjbGFzcz0iaGlnaGNoYXJ0cy1ncmlkLWxpbmUiIGQ9Ik0gMjc4LjUgODQgTCAyNzguNSAyNTkiIG9wYWNpdHk9IjEiLz48cGF0aCBmaWxsPSJub25lIiBkYXRhLXotaW5kZXg9IjEiIGNsYXNzPSJoaWdoY2hhcnRzLWdyaWQtbGluZSIgZD0iTSAzNjQuNSA4NCBMIDM2NC41IDI1OSIgb3BhY2l0eT0iMSIvPjxwYXRoIGZpbGw9Im5vbmUiIGRhdGEtei1pbmRleD0iMSIgY2xhc3M9ImhpZ2hjaGFydHMtZ3JpZC1saW5lIiBkPSJNIDQ1MC41IDg0IEwgNDUwLjUgMjU5IiBvcGFjaXR5PSIxIi8+PHBhdGggZmlsbD0ibm9uZSIgZGF0YS16LWluZGV4PSIxIiBjbGFzcz0iaGlnaGNoYXJ0cy1ncmlkLWxpbmUiIGQ9Ik0gNTM1LjUgODQgTCA1MzUuNSAyNTkiIG9wYWNpdHk9IjEiLz48cGF0aCBmaWxsPSJub25lIiBkYXRhLXotaW5kZXg9IjEiIGNsYXNzPSJoaWdoY2hhcnRzLWdyaWQtbGluZSIgZD0iTSAxNTAuNSA4NCBMIDE1MC41IDI1OSIgb3BhY2l0eT0iMSIvPjxwYXRoIGZpbGw9Im5vbmUiIGRhdGEtei1pbmRleD0iMSIgY2xhc3M9ImhpZ2hjaGFydHMtZ3JpZC1saW5lIiBkPSJNIDIzNS41IDg0IEwgMjM1LjUgMjU5IiBvcGFjaXR5PSIxIi8+PHBhdGggZmlsbD0ibm9uZSIgZGF0YS16LWluZGV4PSIxIiBjbGFzcz0iaGlnaGNoYXJ0cy1ncmlkLWxpbmUiIGQ9Ik0gMzIxLjUgODQgTCAzMjEuNSAyNTkiIG9wYWNpdHk9IjEiLz48cGF0aCBmaWxsPSJub25lIiBkYXRhLXotaW5kZXg9IjEiIGNsYXNzPSJoaWdoY2hhcnRzLWdyaWQtbGluZSIgZD0iTSA0MDcuNSA4NCBMIDQwNy41IDI1OSIgb3BhY2l0eT0iMSIvPjxwYXRoIGZpbGw9Im5vbmUiIGRhdGEtei1pbmRleD0iMSIgY2xhc3M9ImhpZ2hjaGFydHMtZ3JpZC1saW5lIiBkPSJNIDQ5My41IDg0IEwgNDkzLjUgMjU5IiBvcGFjaXR5PSIxIi8+PHBhdGggZmlsbD0ibm9uZSIgZGF0YS16LWluZGV4PSIxIiBjbGFzcz0iaGlnaGNoYXJ0cy1ncmlkLWxpbmUiIGQ9Ik0gNTc4LjUgODQgTCA1NzguNSAyNTkiIG9wYWNpdHk9IjEiLz48L2c+PGcgY2xhc3M9ImhpZ2hjaGFydHMtZ3JpZCBoaWdoY2hhcnRzLXlheGlzLWdyaWQiIGRhdGEtei1pbmRleD0iMSI+PHBhdGggZmlsbD0ibm9uZSIgZGF0YS16LWluZGV4PSIxIiBjbGFzcz0iaGlnaGNoYXJ0cy1ncmlkLWxpbmUiIGQ9Ik0gODggMjU5LjUgTCA1OTAgMjU5LjUiIG9wYWNpdHk9IjEiLz48cGF0aCBmaWxsPSJub25lIiBkYXRhLXotaW5kZXg9IjEiIGNsYXNzPSJoaWdoY2hhcnRzLWdyaWQtbGluZSIgZD0iTSA4OCAyMDEuNSBMIDU5MCAyMDEuNSIgb3BhY2l0eT0iMSIvPjxwYXRoIGZpbGw9Im5vbmUiIGRhdGEtei1pbmRleD0iMSIgY2xhc3M9ImhpZ2hjaGFydHMtZ3JpZC1saW5lIiBkPSJNIDg4IDE0Mi41IEwgNTkwIDE0Mi41IiBvcGFjaXR5PSIxIi8+PHBhdGggZmlsbD0ibm9uZSIgZGF0YS16LWluZGV4PSIxIiBjbGFzcz0iaGlnaGNoYXJ0cy1ncmlkLWxpbmUiIGQ9Ik0gODggODQuNSBMIDU5MCA4NC41IiBvcGFjaXR5PSIxIi8+PC9nPjxyZWN0IGZpbGw9Im5vbmUiIGNsYXNzPSJoaWdoY2hhcnRzLXBsb3QtYm9yZGVyIiBkYXRhLXotaW5kZXg9IjEiIHg9Ijg4IiB5PSI4NCIgd2lkdGg9IjUwMiIgaGVpZ2h0PSIxNzUiLz48ZyBjbGFzcz0iaGlnaGNoYXJ0cy1heGlzIGhpZ2hjaGFydHMteGF4aXMiIGRhdGEtei1pbmRleD0iMiI+PHRleHQgeD0iMzM5IiBkYXRhLXotaW5kZXg9IjciIHRleHQtYW5jaG9yPSJtaWRkbGUiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDAsMCkiIGNsYXNzPSJoaWdoY2hhcnRzLWF4aXMtdGl0bGUiIHN0eWxlPSJjb2xvcjojMzMzO2ZvbnQtc2l6ZToxMnB4O2ZpbGw6IzMzMzsiIHk9IjMzOC42MzI4MTI1Ij48dHNwYW4+55m855eF5bm06YCxPC90c3Bhbj48L3RleHQ+PHBhdGggZmlsbD0ibm9uZSIgY2xhc3M9ImhpZ2hjaGFydHMtYXhpcy1saW5lIiBzdHJva2U9IiMwMDAwMDAiIHN0cm9rZS13aWR0aD0iMSIgZGF0YS16LWluZGV4PSI3IiBkPSJNIDg4IDI1OS41IEwgNTkwIDI1OS41Ii8+PC9nPjxnIGNsYXNzPSJoaWdoY2hhcnRzLWF4aXMgaGlnaGNoYXJ0cy15YXhpcyIgZGF0YS16LWluZGV4PSIyIj48dGV4dCB4PSIyNS4zNjcxODc1IiBkYXRhLXotaW5kZXg9IjciIHRleHQtYW5jaG9yPSJtaWRkbGUiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDAsMCkgcm90YXRlKDI3MCAyNS4zNjcxODc1IDE3MS41KSIgY2xhc3M9ImhpZ2hjaGFydHMtYXhpcy10aXRsZSIgc3R5bGU9ImNvbG9yOiMzMzM7Zm9udC1zaXplOjExcHg7ZmlsbDojMzMzOyIgeT0iMTcxLjUiPjx0c3Bhbj7nl4XkvovmlbggKOS6uik8L3RzcGFuPjwvdGV4dD48cGF0aCBmaWxsPSJub25lIiBjbGFzcz0iaGlnaGNoYXJ0cy1heGlzLWxpbmUiIGRhdGEtei1pbmRleD0iNyIgZD0iTSA4OCA4NCBMIDg4IDI1OSIvPjwvZz48ZyBjbGFzcz0iaGlnaGNoYXJ0cy1zZXJpZXMtZ3JvdXAiIGRhdGEtei1pbmRleD0iMyI+PGcgY2xhc3M9ImhpZ2hjaGFydHMtc2VyaWVzIGhpZ2hjaGFydHMtc2VyaWVzLTAgaGlnaGNoYXJ0cy1jb2x1bW4tc2VyaWVzIiBkYXRhLXotaW5kZXg9IjAuMSIgb3BhY2l0eT0iMSIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoODgsODQpIHNjYWxlKDEgMSkiIGNsaXAtcGF0aD0idXJsKCNoaWdoY2hhcnRzLXZ4cmMxZ3QtNTM5LSkiPjxyZWN0IHg9IjguNSIgeT0iMTc1LjUiIHdpZHRoPSIyMiIgaGVpZ2h0PSIwIiBmaWxsPSIjQ0MwMDAwIiBzdHJva2U9IiNmZmZmZmYiIHN0cm9rZS13aWR0aD0iMS41IiBvcGFjaXR5PSIxIiBjbGFzcz0iaGlnaGNoYXJ0cy1wb2ludCIvPjxyZWN0IHg9IjMwLjUiIHk9IjE3NS41IiB3aWR0aD0iMjEiIGhlaWdodD0iMCIgZmlsbD0iI0NDMDAwMCIgc3Ryb2tlPSIjZmZmZmZmIiBzdHJva2Utd2lkdGg9IjEuNSIgb3BhY2l0eT0iMSIgY2xhc3M9ImhpZ2hjaGFydHMtcG9pbnQiLz48cmVjdCB4PSI1MS41IiB5PSIxNzUuNSIgd2lkdGg9IjIxIiBoZWlnaHQ9IjAiIGZpbGw9IiNDQzAwMDAiIHN0cm9rZT0iI2ZmZmZmZiIgc3Ryb2tlLXdpZHRoPSIxLjUiIG9wYWNpdHk9IjEiIGNsYXNzPSJoaWdoY2hhcnRzLXBvaW50Ii8+PHJlY3QgeD0iNzIuNSIgeT0iMTc1LjUiIHdpZHRoPSIyMiIgaGVpZ2h0PSIwIiBmaWxsPSIjQ0MwMDAwIiBzdHJva2U9IiNmZmZmZmYiIHN0cm9rZS13aWR0aD0iMS41IiBvcGFjaXR5PSIxIiBjbGFzcz0iaGlnaGNoYXJ0cy1wb2ludCIvPjxyZWN0IHg9Ijk0LjUiIHk9IjE3NS41IiB3aWR0aD0iMjEiIGhlaWdodD0iMCIgZmlsbD0iI0NDMDAwMCIgc3Ryb2tlPSIjZmZmZmZmIiBzdHJva2Utd2lkdGg9IjEuNSIgb3BhY2l0eT0iMSIgY2xhc3M9ImhpZ2hjaGFydHMtcG9pbnQiLz48cmVjdCB4PSIxMTUuNSIgeT0iMTc1LjUiIHdpZHRoPSIyMiIgaGVpZ2h0PSIwIiBmaWxsPSIjQ0MwMDAwIiBzdHJva2U9IiNmZmZmZmYiIHN0cm9rZS13aWR0aD0iMS41IiBvcGFjaXR5PSIxIiBjbGFzcz0iaGlnaGNoYXJ0cy1wb2ludCIvPjxyZWN0IHg9IjEzNy41IiB5PSIxNzUuNSIgd2lkdGg9IjIxIiBoZWlnaHQ9IjAiIGZpbGw9IiNDQzAwMDAiIHN0cm9rZT0iI2ZmZmZmZiIgc3Ryb2tlLXdpZHRoPSIxLjUiIG9wYWNpdHk9IjEiIGNsYXNzPSJoaWdoY2hhcnRzLXBvaW50Ii8+PHJlY3QgeD0iMTU4LjUiIHk9IjE3NS41IiB3aWR0aD0iMjIiIGhlaWdodD0iMCIgZmlsbD0iI0NDMDAwMCIgc3Ryb2tlPSIjZmZmZmZmIiBzdHJva2Utd2lkdGg9IjEuNSIgb3BhY2l0eT0iMSIgY2xhc3M9ImhpZ2hjaGFydHMtcG9pbnQiLz48cmVjdCB4PSIxODAuNSIgeT0iMTc1LjUiIHdpZHRoPSIyMSIgaGVpZ2h0PSIwIiBmaWxsPSIjQ0MwMDAwIiBzdHJva2U9IiNmZmZmZmYiIHN0cm9rZS13aWR0aD0iMS41IiBvcGFjaXR5PSIxIiBjbGFzcz0iaGlnaGNoYXJ0cy1wb2ludCIvPjxyZWN0IHg9IjIwMS41IiB5PSIxNzUuNSIgd2lkdGg9IjIxIiBoZWlnaHQ9IjAiIGZpbGw9IiNDQzAwMDAiIHN0cm9rZT0iI2ZmZmZmZiIgc3Ryb2tlLXdpZHRoPSIxLjUiIG9wYWNpdHk9IjEiIGNsYXNzPSJoaWdoY2hhcnRzLXBvaW50Ii8+PHJlY3QgeD0iMjIyLjUiIHk9IjE3NS41IiB3aWR0aD0iMjIiIGhlaWdodD0iMCIgZmlsbD0iI0NDMDAwMCIgc3Ryb2tlPSIjZmZmZmZmIiBzdHJva2Utd2lkdGg9IjEuNSIgb3BhY2l0eT0iMSIgY2xhc3M9ImhpZ2hjaGFydHMtcG9pbnQiLz48cmVjdCB4PSIyNDQuNSIgeT0iMTc1LjUiIHdpZHRoPSIyMSIgaGVpZ2h0PSIwIiBmaWxsPSIjQ0MwMDAwIiBzdHJva2U9IiNmZmZmZmYiIHN0cm9rZS13aWR0aD0iMS41IiBvcGFjaXR5PSIxIiBjbGFzcz0iaGlnaGNoYXJ0cy1wb2ludCIvPjxyZWN0IHg9IjI2NS41IiB5PSIxNzUuNSIgd2lkdGg9IjIyIiBoZWlnaHQ9IjAiIGZpbGw9IiNDQzAwMDAiIHN0cm9rZT0iI2ZmZmZmZiIgc3Ryb2tlLXdpZHRoPSIxLjUiIG9wYWNpdHk9IjEiIGNsYXNzPSJoaWdoY2hhcnRzLXBvaW50Ii8+PHJlY3QgeD0iMjg3LjUiIHk9IjE3NC41IiB3aWR0aD0iMjEiIGhlaWdodD0iMSIgZmlsbD0iI0NDMDAwMCIgc3Ryb2tlPSIjZmZmZmZmIiBzdHJva2Utd2lkdGg9IjEuNSIgb3BhY2l0eT0iMSIgY2xhc3M9ImhpZ2hjaGFydHMtcG9pbnQiLz48cmVjdCB4PSIzMDguNSIgeT0iMTczLjUiIHdpZHRoPSIyMiIgaGVpZ2h0PSIyIiBmaWxsPSIjQ0MwMDAwIiBzdHJva2U9IiNmZmZmZmYiIHN0cm9rZS13aWR0aD0iMS41IiBvcGFjaXR5PSIxIiBjbGFzcz0iaGlnaGNoYXJ0cy1wb2ludCIvPjxyZWN0IHg9IjMzMC41IiB5PSIxNjkuNSIgd2lkdGg9IjIxIiBoZWlnaHQ9IjYiIGZpbGw9IiNDQzAwMDAiIHN0cm9rZT0iI2ZmZmZmZiIgc3Ryb2tlLXdpZHRoPSIxLjUiIG9wYWNpdHk9IjEiIGNsYXNzPSJoaWdoY2hhcnRzLXBvaW50Ii8+PHJlY3QgeD0iMzUxLjUiIHk9IjE1NS41IiB3aWR0aD0iMjEiIGhlaWdodD0iMjAiIGZpbGw9IiNDQzAwMDAiIHN0cm9rZT0iI2ZmZmZmZiIgc3Ryb2tlLXdpZHRoPSIxLjUiIG9wYWNpdHk9IjEiIGNsYXNzPSJoaWdoY2hhcnRzLXBvaW50Ii8+PHJlY3QgeD0iMzcyLjUiIHk9IjEyMC41IiB3aWR0aD0iMjIiIGhlaWdodD0iNTUiIGZpbGw9IiNDQzAwMDAiIHN0cm9rZT0iI2ZmZmZmZiIgc3Ryb2tlLXdpZHRoPSIxLjUiIG9wYWNpdHk9IjEiIGNsYXNzPSJoaWdoY2hhcnRzLXBvaW50Ii8+PHJlY3QgeD0iMzk0LjUiIHk9Ijc5LjUiIHdpZHRoPSIyMSIgaGVpZ2h0PSI5NiIgZmlsbD0iI0NDMDAwMCIgc3Ryb2tlPSIjZmZmZmZmIiBzdHJva2Utd2lkdGg9IjEuNSIgb3BhY2l0eT0iMSIgY2xhc3M9ImhpZ2hjaGFydHMtcG9pbnQiLz48cmVjdCB4PSI0MTUuNSIgeT0iNDcuNSIgd2lkdGg9IjIyIiBoZWlnaHQ9IjEyOCIgZmlsbD0iI0NDMDAwMCIgc3Ryb2tlPSIjZmZmZmZmIiBzdHJva2Utd2lkdGg9IjEuNSIgb3BhY2l0eT0iMSIgY2xhc3M9ImhpZ2hjaGFydHMtcG9pbnQiLz48cmVjdCB4PSI0MzcuNSIgeT0iNDQuNSIgd2lkdGg9IjIxIiBoZWlnaHQ9IjEzMSIgZmlsbD0iI0NDMDAwMCIgc3Ryb2tlPSIjZmZmZmZmIiBzdHJva2Utd2lkdGg9IjEuNSIgb3BhY2l0eT0iMSIgY2xhc3M9ImhpZ2hjaGFydHMtcG9pbnQiLz48cmVjdCB4PSI0NTguNSIgeT0iNTcuNSIgd2lkdGg9IjIyIiBoZWlnaHQ9IjExOCIgZmlsbD0iI0NDMDAwMCIgc3Ryb2tlPSIjZmZmZmZmIiBzdHJva2Utd2lkdGg9IjEuNSIgb3BhY2l0eT0iMSIgY2xhc3M9ImhpZ2hjaGFydHMtcG9pbnQiLz48cmVjdCB4PSI0ODAuNSIgeT0iMTc1LjUiIHdpZHRoPSIyMSIgaGVpZ2h0PSIwIiBmaWxsPSIjQ0MwMDAwIiBzdHJva2U9IiNmZmZmZmYiIHN0cm9rZS13aWR0aD0iMS41IiBvcGFjaXR5PSIxIiBjbGFzcz0iaGlnaGNoYXJ0cy1wb2ludCIvPjwvZz48ZyBjbGFzcz0iaGlnaGNoYXJ0cy1tYXJrZXJzIGhpZ2hjaGFydHMtc2VyaWVzLTAgaGlnaGNoYXJ0cy1jb2x1bW4tc2VyaWVzIiBkYXRhLXotaW5kZXg9IjAuMSIgb3BhY2l0eT0iMSIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoODgsODQpIHNjYWxlKDEgMSkiIGNsaXAtcGF0aD0ibm9uZSIvPjxnIGNsYXNzPSJoaWdoY2hhcnRzLXNlcmllcyBoaWdoY2hhcnRzLXNlcmllcy0xIGhpZ2hjaGFydHMtbGluZS1zZXJpZXMiIGRhdGEtei1pbmRleD0iMC4xIiBvcGFjaXR5PSIxIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSg4OCw4NCkgc2NhbGUoMSAxKSIgY2xpcC1wYXRoPSJ1cmwoI2hpZ2hjaGFydHMtdnhyYzFndC01MzktKSI+PHBhdGggZmlsbD0ibm9uZSIgZD0iTSAtMTA5NC42MjM4NTMyMTEgMTc0Ljk5NjM2IEwgLTEwNzMuMTkyNjYwNTUwNSAxNzQuOTk2MzYgTCAtMTA1MS43NjE0Njc4ODk5IDE3NC45OTYzNiBMIC0xMDMwLjMzMDI3NTIyOTQgMTc0Ljk5NjM2IEwgLTEwMDguODk5MDgyNTY4OCAxNzQuOTk2MzYgTCAtOTg3LjQ2Nzg4OTkwODI2IDE3NC45OTYzNiBMIC05NjYuMDM2Njk3MjQ3NzEgMTc0Ljk5NjM2IEwgLTk0NC42MDU1MDQ1ODcxNiAxNzQuOTk2MzYgTCAtOTIzLjE3NDMxMTkyNjYxIDE3NC45OTYzNiBMIC05MDEuNzQzMTE5MjY2MDUgMTc0Ljk5NjM2IEwgLTg4MC4zMTE5MjY2MDU1IDE3NC45OTYzNiBMIC04NTguODgwNzMzOTQ0OTUgMTc0Ljk5NjM2IEwgLTgzNy40NDk1NDEyODQ0IDE3NC45OTYzNiBMIC04MTYuMDE4MzQ4NjIzODUgMTc0Ljk5NjM2IEwgLTc5NC41ODcxNTU5NjMzIDE3NC45OTYzNiBMIC03NzMuMTU1OTYzMzAyNzUgMTc0Ljk5NjM2IEwgLTc1MS43MjQ3NzA2NDIyIDE3NC45OTYzNiBMIC03MzAuMjkzNTc3OTgxNjUgMTc0Ljk5NjM2IEwgLTcwOC44NjIzODUzMjExIDE3NC45OTYzNiBMIC02ODcuNDMxMTkyNjYwNTUgMTc0Ljk5NjM2IEwgLTY2NiAxNzQuOTk2MzYgTCAtNjQ0LjU2ODgwNzMzOTQ1IDE3NC45OTYzNiBMIC02MjMuMTM3NjE0Njc4OSAxNzQuOTk2MzYgTCAtNjAxLjcwNjQyMjAxODM1IDE3NC45OTYzNiBMIC01ODAuMjc1MjI5MzU3OCAxNzQuOTk2MzYgTCAtNTU4Ljg0NDAzNjY5NzI1IDE3NC45OTYzNiBMIC01MzcuNDEyODQ0MDM2NyAxNzQuOTk2MzYgTCAtNTE1Ljk4MTY1MTM3NjE1IDE3NC45OTYzNiBMIC00OTQuNTUwNDU4NzE1NiAxNzQuOTk2MzYgTCAtNDczLjExOTI2NjA1NTA1IDE3NC45OTYzNiBMIC00NTEuNjg4MDczMzk0NSAxNzQuOTk2MzYgTCAtNDMwLjI1Njg4MDczMzk0IDE3NC45OTYzNiBMIC00MDguODI1Njg4MDczMzkgMTc0Ljk5NjM2IEwgLTM4Ny4zOTQ0OTU0MTI4NCAxNzQuOTk2MzYgTCAtMzY1Ljk2MzMwMjc1MjI5IDE3NC45OTYzNiBMIC0zNDQuNTMyMTEwMDkxNzQgMTc0Ljk5NjM2IEwgLTMyMy4xMDA5MTc0MzExOSAxNzQuOTk2MzYgTCAtMzAxLjY2OTcyNDc3MDY0IDE3NC45OTYzNiBMIC0yODAuMjM4NTMyMTEwMDkgMTc0Ljk5NjM2IEwgLTI1OC44MDczMzk0NDk1NCAxNzQuOTk2MzYgTCAtMjM3LjM3NjE0Njc4ODk5IDE3NC45OTYzNiBMIC0yMTUuOTQ0OTU0MTI4NDQgMTc0Ljk5NjM2IEwgLTE5NC41MTM3NjE0Njc4OSAxNzQuOTk2MzYgTCAtMTczLjA4MjU2ODgwNzM0IDE3NC45OTYzNiBMIC0xNTEuNjUxMzc2MTQ2NzkgMTc0Ljk5NjM2IEwgLTEzMC4yMjAxODM0ODYyNCAxNzQuOTk2MzYgTCAtMTA4Ljc4ODk5MDgyNTY5IDE3NC45OTYzNiBMIC04Ny4zNTc3OTgxNjUxMzggMTc0Ljk5NjM2IEwgLTY1LjkyNjYwNTUwNDU4NyAxNzQuOTk2MzYgTCAtNDQuNDk1NDEyODQ0MDM3IDE3NC45OTYzNiBMIC0yMy4wNjQyMjAxODM0ODYgMTc0Ljk5NjM2IEwgLTEuNjMzMDI3NTIyOTM1OCAxNzQuOTk2MzYiIGNsYXNzPSJoaWdoY2hhcnRzLWdyYXBoIiBkYXRhLXotaW5kZXg9IjEiIHN0cm9rZT0iI0REQUEwMCIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtZGFzaGFycmF5PSIyLDIiLz48L2c+PGcgY2xhc3M9ImhpZ2hjaGFydHMtbWFya2VycyBoaWdoY2hhcnRzLXNlcmllcy0xIGhpZ2hjaGFydHMtbGluZS1zZXJpZXMiIGRhdGEtei1pbmRleD0iMC4xIiBvcGFjaXR5PSIxIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSg4OCw4NCkgc2NhbGUoMSAxKSIgY2xpcC1wYXRoPSJub25lIi8+PGcgY2xhc3M9ImhpZ2hjaGFydHMtc2VyaWVzIGhpZ2hjaGFydHMtc2VyaWVzLTIgaGlnaGNoYXJ0cy1saW5lLXNlcmllcyIgZGF0YS16LWluZGV4PSIwLjEiIG9wYWNpdHk9IjEiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDg4LDg0KSBzY2FsZSgxIDEpIiBjbGlwLXBhdGg9InVybCgjaGlnaGNoYXJ0cy12eHJjMWd0LTUzOS0pIj48cGF0aCBmaWxsPSJub25lIiBkPSJNIC0xMDk0LjYyMzg1MzIxMSAxNzQuOTg0OTUgTCAtMTA3My4xOTI2NjA1NTA1IDE3NC45ODQ5NSBMIC0xMDUxLjc2MTQ2Nzg4OTkgMTc0Ljk4NDk1IEwgLTEwMzAuMzMwMjc1MjI5NCAxNzQuOTg0OTUgTCAtMTAwOC44OTkwODI1Njg4IDE3NC45ODQ5NSBMIC05ODcuNDY3ODg5OTA4MjYgMTc0Ljk4NDk1IEwgLTk2Ni4wMzY2OTcyNDc3MSAxNzQuOTg0OTUgTCAtOTQ0LjYwNTUwNDU4NzE2IDE3NC45ODQ5NSBMIC05MjMuMTc0MzExOTI2NjEgMTc0Ljk4NDk1IEwgLTkwMS43NDMxMTkyNjYwNSAxNzQuOTg0OTUgTCAtODgwLjMxMTkyNjYwNTUgMTc0Ljk4NDk1IEwgLTg1OC44ODA3MzM5NDQ5NSAxNzQuOTg0OTUgTCAtODM3LjQ0OTU0MTI4NDQgMTc0Ljk4NDk1IEwgLTgxNi4wMTgzNDg2MjM4NSAxNzQuOTg0OTUgTCAtNzk0LjU4NzE1NTk2MzMgMTc0Ljk4NDk1IEwgLTc3My4xNTU5NjMzMDI3NSAxNzQuOTg0OTUgTCAtNzUxLjcyNDc3MDY0MjIgMTc0Ljk4NDk1IEwgLTczMC4yOTM1Nzc5ODE2NSAxNzQuOTg0OTUgTCAtNzA4Ljg2MjM4NTMyMTEgMTc0Ljk4NDk1IEwgLTY4Ny40MzExOTI2NjA1NSAxNzQuOTg0OTUgTCAtNjY2IDE3NC45ODQ5NSBMIC02NDQuNTY4ODA3MzM5NDUgMTc0Ljk4NDk1IEwgLTYyMy4xMzc2MTQ2Nzg5IDE3NC45ODQ5NSBMIC02MDEuNzA2NDIyMDE4MzUgMTc0Ljk4NDk1IEwgLTU4MC4yNzUyMjkzNTc4IDE3NC45ODQ5NSBMIC01NTguODQ0MDM2Njk3MjUgMTc0Ljk4NDk1IEwgLTUzNy40MTI4NDQwMzY3IDE3NC45ODQ5NSBMIC01MTUuOTgxNjUxMzc2MTUgMTc0Ljk4NDk1IEwgLTQ5NC41NTA0NTg3MTU2IDE3NC45ODQ5NSBMIC00NzMuMTE5MjY2MDU1MDUgMTc0Ljk4NDk1IEwgLTQ1MS42ODgwNzMzOTQ1IDE3NC45ODQ5NSBMIC00MzAuMjU2ODgwNzMzOTQgMTc0Ljk4NDk1IEwgLTQwOC44MjU2ODgwNzMzOSAxNzQuOTg0OTUgTCAtMzg3LjM5NDQ5NTQxMjg0IDE3NC45ODQ5NSBMIC0zNjUuOTYzMzAyNzUyMjkgMTc0Ljk4NDk1IEwgLTM0NC41MzIxMTAwOTE3NCAxNzQuOTg0OTUgTCAtMzIzLjEwMDkxNzQzMTE5IDE3NC45ODQ5NSBMIC0zMDEuNjY5NzI0NzcwNjQgMTc0Ljk4NDk1IEwgLTI4MC4yMzg1MzIxMTAwOSAxNzQuOTg0OTUgTCAtMjU4LjgwNzMzOTQ0OTU0IDE3NC45ODQ5NSBMIC0yMzcuMzc2MTQ2Nzg4OTkgMTc0Ljk4NDk1IEwgLTIxNS45NDQ5NTQxMjg0NCAxNzQuOTg0OTUgTCAtMTk0LjUxMzc2MTQ2Nzg5IDE3NC45ODQ5NSBMIC0xNzMuMDgyNTY4ODA3MzQgMTc0Ljk4NDk1IEwgLTE1MS42NTEzNzYxNDY3OSAxNzQuOTg0OTUgTCAtMTMwLjIyMDE4MzQ4NjI0IDE3NC45ODQ5NSBMIC0xMDguNzg4OTkwODI1NjkgMTc0Ljk4NDk1IEwgLTg3LjM1Nzc5ODE2NTEzOCAxNzQuOTg0OTUgTCAtNjUuOTI2NjA1NTA0NTg3IDE3NC45ODQ5NSBMIC00NC40OTU0MTI4NDQwMzcgMTc0Ljk4NDk1IEwgLTIzLjA2NDIyMDE4MzQ4NiAxNzQuOTg0OTUgTCAtMS42MzMwMjc1MjI5MzU4IDE3NC45ODQ5NSIgY2xhc3M9ImhpZ2hjaGFydHMtZ3JhcGgiIGRhdGEtei1pbmRleD0iMSIgc3Ryb2tlPSIjOEIwMDAwIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1kYXNoYXJyYXk9IjIsMiIvPjwvZz48ZyBjbGFzcz0iaGlnaGNoYXJ0cy1tYXJrZXJzIGhpZ2hjaGFydHMtc2VyaWVzLTIgaGlnaGNoYXJ0cy1saW5lLXNlcmllcyIgZGF0YS16LWluZGV4PSIwLjEiIG9wYWNpdHk9IjEiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDg4LDg0KSBzY2FsZSgxIDEpIiBjbGlwLXBhdGg9Im5vbmUiLz48L2c+PHRleHQgeD0iMzAwIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBjbGFzcz0iaGlnaGNoYXJ0cy10aXRsZSIgZGF0YS16LWluZGV4PSI0IiBzdHlsZT0iY29sb3I6IzAwMDAwMDtmb250LXNpemU6MTZweDtoZWlnaHQ6NTBweDt0ZXh0LWFsaWduOmNlbnRlcjtmaWxsOiMwMDAwMDA7IiB5PSIyMiI+PHRzcGFuPuWFqOWciyDlmrTph43nibnmrorlgrPmn5PmgKfogrrngo4g5pys5Zyf55eF5L6L5Y+K5aKD5aSW56e75YWl55eF5L6LIOi2qOWLouWcliAoMjAyMeW5tDHpgLEtPC90c3Bhbj48dHNwYW4gZHk9IjE5IiB4PSIzMDAiPjIwMjLlubQyM+mAsSk8L3RzcGFuPjx0c3BhbiBzdHlsZT0iZm9udC1zaXplOiAxNHB4IiB4PSIzMDAiIGR5PSIxNyI+W+eZvOeXheaXpSAyMDIxLzAxLzAzLTIwMjIvMDYvMTFdPC90c3Bhbj48L3RleHQ+PHRleHQgeD0iMzAwIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBjbGFzcz0iaGlnaGNoYXJ0cy1zdWJ0aXRsZSIgZGF0YS16LWluZGV4PSI0IiBzdHlsZT0iY29sb3I6IzY2NjY2NjtmaWxsOiM2NjY2NjY7IiB5PSI4MyIvPjx0ZXh0IHg9IjEwIiB0ZXh0LWFuY2hvcj0ic3RhcnQiIGNsYXNzPSJoaWdoY2hhcnRzLWNhcHRpb24iIGRhdGEtei1pbmRleD0iNCIgc3R5bGU9ImNvbG9yOiM2NjY2NjY7ZmlsbDojNjY2NjY2OyIgeT0iMzk3Ii8+PGcgY2xhc3M9ImhpZ2hjaGFydHMtbGVnZW5kIiBkYXRhLXotaW5kZXg9IjciIHRyYW5zZm9ybT0idHJhbnNsYXRlKDE2OSwzNTYpIj48cmVjdCBmaWxsPSJub25lIiBjbGFzcz0iaGlnaGNoYXJ0cy1sZWdlbmQtYm94IiByeD0iMCIgcnk9IjAiIHg9IjAiIHk9IjAiIHdpZHRoPSIyNjMiIGhlaWdodD0iMjkiIHZpc2liaWxpdHk9InZpc2libGUiLz48ZyBkYXRhLXotaW5kZXg9IjEiPjxnPjxnIGNsYXNzPSJoaWdoY2hhcnRzLWxlZ2VuZC1pdGVtIGhpZ2hjaGFydHMtY29sdW1uLXNlcmllcyBoaWdoY2hhcnRzLWNvbG9yLXVuZGVmaW5lZCBoaWdoY2hhcnRzLXNlcmllcy0wIiBkYXRhLXotaW5kZXg9IjEiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDgsMykiPjx0ZXh0IHg9IjIxIiBzdHlsZT0iY29sb3I6IzAwMDAwMDtjdXJzb3I6cG9pbnRlcjtmb250LXNpemU6MTJweDtmb250LXdlaWdodDpib2xkO2ZpbGw6IzAwMDAwMDsiIHRleHQtYW5jaG9yPSJzdGFydCIgZGF0YS16LWluZGV4PSIyIiB5PSIxNSI+PHRzcGFuPueiuuWumueXheS+i+aVuDwvdHNwYW4+PC90ZXh0PjxyZWN0IHg9IjIiIHk9IjQiIHdpZHRoPSIxMiIgaGVpZ2h0PSIxMiIgZmlsbD0iI0NDMDAwMCIgcng9IjYiIHJ5PSI2IiBjbGFzcz0iaGlnaGNoYXJ0cy1wb2ludCIgZGF0YS16LWluZGV4PSIzIi8+PC9nPjxnIGNsYXNzPSJoaWdoY2hhcnRzLWxlZ2VuZC1pdGVtIGhpZ2hjaGFydHMtbGluZS1zZXJpZXMgaGlnaGNoYXJ0cy1jb2xvci11bmRlZmluZWQgaGlnaGNoYXJ0cy1zZXJpZXMtMSIgZGF0YS16LWluZGV4PSIxIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgxMDksMykiPjxwYXRoIGZpbGw9Im5vbmUiIGQ9Ik0gMCAxMSBMIDE2IDExIiBjbGFzcz0iaGlnaGNoYXJ0cy1ncmFwaCIgc3Ryb2tlLWRhc2hhcnJheT0iMiwyIiBzdHJva2U9IiNEREFBMDAiIHN0cm9rZS13aWR0aD0iMiIvPjx0ZXh0IHg9IjIxIiB5PSIxNSIgc3R5bGU9ImNvbG9yOiMwMDAwMDA7Y3Vyc29yOnBvaW50ZXI7Zm9udC1zaXplOjEycHg7Zm9udC13ZWlnaHQ6Ym9sZDtmaWxsOiMwMDAwMDA7IiB0ZXh0LWFuY2hvcj0ic3RhcnQiIGRhdGEtei1pbmRleD0iMiI+PHRzcGFuPumgkOitpuWAvDwvdHNwYW4+PC90ZXh0PjwvZz48ZyBjbGFzcz0iaGlnaGNoYXJ0cy1sZWdlbmQtaXRlbSBoaWdoY2hhcnRzLWxpbmUtc2VyaWVzIGhpZ2hjaGFydHMtY29sb3ItdW5kZWZpbmVkIGhpZ2hjaGFydHMtc2VyaWVzLTIiIGRhdGEtei1pbmRleD0iMSIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMTg2LDMpIj48cGF0aCBmaWxsPSJub25lIiBkPSJNIDAgMTEgTCAxNiAxMSIgY2xhc3M9ImhpZ2hjaGFydHMtZ3JhcGgiIHN0cm9rZS1kYXNoYXJyYXk9IjIsMiIgc3Ryb2tlPSIjOEIwMDAwIiBzdHJva2Utd2lkdGg9IjIiLz48dGV4dCB4PSIyMSIgeT0iMTUiIHN0eWxlPSJjb2xvcjojMDAwMDAwO2N1cnNvcjpwb2ludGVyO2ZvbnQtc2l6ZToxMnB4O2ZvbnQtd2VpZ2h0OmJvbGQ7ZmlsbDojMDAwMDAwOyIgdGV4dC1hbmNob3I9InN0YXJ0IiBkYXRhLXotaW5kZXg9IjIiPjx0c3Bhbj7mtYHooYzplr7lgLw8L3RzcGFuPjwvdGV4dD48L2c+PC9nPjwvZz48L2c+PGcgY2xhc3M9ImhpZ2hjaGFydHMtYXhpcy1sYWJlbHMgaGlnaGNoYXJ0cy14YXhpcy1sYWJlbHMiIGRhdGEtei1pbmRleD0iNyI+PHRleHQgeD0iMTE2LjQ2NDgzMTgwNDI3NjY3IiBzdHlsZT0iY29sb3I6IzAwMDAwMDtjdXJzb3I6ZGVmYXVsdDtmb250LXNpemU6MTFweDtmaWxsOiMwMDAwMDA7IiB0ZXh0LWFuY2hvcj0iZW5kIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLDApIHJvdGF0ZSgtOTAgMTE2LjQ2NDgzMTgwNDI3NjY3IDI3OSkiIHk9IjI3OSIgb3BhY2l0eT0iMSI+MjAyMjAxPC90ZXh0Pjx0ZXh0IHg9IjIwMi4xODk2MDI0NDY0ODY2NSIgc3R5bGU9ImNvbG9yOiMwMDAwMDA7Y3Vyc29yOmRlZmF1bHQ7Zm9udC1zaXplOjExcHg7ZmlsbDojMDAwMDAwOyIgdGV4dC1hbmNob3I9ImVuZCIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMCwwKSByb3RhdGUoLTkwIDIwMi4xODk2MDI0NDY0ODY2NSAyNzkpIiB5PSIyNzkiIG9wYWNpdHk9IjEiPjIwMjIwNTwvdGV4dD48dGV4dCB4PSIyODcuOTE0MzczMDg4Njg2NjYiIHN0eWxlPSJjb2xvcjojMDAwMDAwO2N1cnNvcjpkZWZhdWx0O2ZvbnQtc2l6ZToxMXB4O2ZpbGw6IzAwMDAwMDsiIHRleHQtYW5jaG9yPSJlbmQiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDAsMCkgcm90YXRlKC05MCAyODcuOTE0MzczMDg4Njg2NjYgMjc5KSIgeT0iMjc5IiBvcGFjaXR5PSIxIj4yMDIyMDk8L3RleHQ+PHRleHQgeD0iMzczLjYzOTE0MzczMDg4NjciIHN0eWxlPSJjb2xvcjojMDAwMDAwO2N1cnNvcjpkZWZhdWx0O2ZvbnQtc2l6ZToxMXB4O2ZpbGw6IzAwMDAwMDsiIHRleHQtYW5jaG9yPSJlbmQiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDAsMCkgcm90YXRlKC05MCAzNzMuNjM5MTQzNzMwODg2NyAyNzkpIiB5PSIyNzkiIG9wYWNpdHk9IjEiPjIwMjIxMzwvdGV4dD48dGV4dCB4PSI0NTkuMzYzOTE0MzczMDg2NyIgc3R5bGU9ImNvbG9yOiMwMDAwMDA7Y3Vyc29yOmRlZmF1bHQ7Zm9udC1zaXplOjExcHg7ZmlsbDojMDAwMDAwOyIgdGV4dC1hbmNob3I9ImVuZCIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMCwwKSByb3RhdGUoLTkwIDQ1OS4zNjM5MTQzNzMwODY3IDI3OSkiIHk9IjI3OSIgb3BhY2l0eT0iMSI+MjAyMjE3PC90ZXh0Pjx0ZXh0IHg9IjU0NS4wODg2ODUwMTUyODY2IiBzdHlsZT0iY29sb3I6IzAwMDAwMDtjdXJzb3I6ZGVmYXVsdDtmb250LXNpemU6MTFweDtmaWxsOiMwMDAwMDA7IiB0ZXh0LWFuY2hvcj0iZW5kIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLDApIHJvdGF0ZSgtOTAgNTQ1LjA4ODY4NTAxNTI4NjYgMjc5KSIgeT0iMjc5IiBvcGFjaXR5PSIxIj4yMDIyMjE8L3RleHQ+PHRleHQgeD0iMTU5LjMyNzIxNzEyNTM4NjY1IiBzdHlsZT0iY29sb3I6IzAwMDAwMDtjdXJzb3I6ZGVmYXVsdDtmb250LXNpemU6MTFweDtmaWxsOiMwMDAwMDA7IiB0ZXh0LWFuY2hvcj0iZW5kIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLDApIHJvdGF0ZSgtOTAgMTU5LjMyNzIxNzEyNTM4NjY1IDI3OSkiIHk9IjI3OSIgb3BhY2l0eT0iMSI+MjAyMjAzPC90ZXh0Pjx0ZXh0IHg9IjI0NS4wNTE5ODc3Njc1ODY2NyIgc3R5bGU9ImNvbG9yOiMwMDAwMDA7Y3Vyc29yOmRlZmF1bHQ7Zm9udC1zaXplOjExcHg7ZmlsbDojMDAwMDAwOyIgdGV4dC1hbmNob3I9ImVuZCIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMCwwKSByb3RhdGUoLTkwIDI0NS4wNTE5ODc3Njc1ODY2NyAyNzkpIiB5PSIyNzkiIG9wYWNpdHk9IjEiPjIwMjIwNzwvdGV4dD48dGV4dCB4PSIzMzAuNzc2NzU4NDA5Nzg2NyIgc3R5bGU9ImNvbG9yOiMwMDAwMDA7Y3Vyc29yOmRlZmF1bHQ7Zm9udC1zaXplOjExcHg7ZmlsbDojMDAwMDAwOyIgdGV4dC1hbmNob3I9ImVuZCIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMCwwKSByb3RhdGUoLTkwIDMzMC43NzY3NTg0MDk3ODY3IDI3OSkiIHk9IjI3OSIgb3BhY2l0eT0iMSI+MjAyMjExPC90ZXh0Pjx0ZXh0IHg9IjQxNi41MDE1MjkwNTE5ODY2NyIgc3R5bGU9ImNvbG9yOiMwMDAwMDA7Y3Vyc29yOmRlZmF1bHQ7Zm9udC1zaXplOjExcHg7ZmlsbDojMDAwMDAwOyIgdGV4dC1hbmNob3I9ImVuZCIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMCwwKSByb3RhdGUoLTkwIDQxNi41MDE1MjkwNTE5ODY2NyAyNzkpIiB5PSIyNzkiIG9wYWNpdHk9IjEiPjIwMjIxNTwvdGV4dD48dGV4dCB4PSI1MDIuMjI2Mjk5Njk0MTg2NyIgc3R5bGU9ImNvbG9yOiMwMDAwMDA7Y3Vyc29yOmRlZmF1bHQ7Zm9udC1zaXplOjExcHg7ZmlsbDojMDAwMDAwOyIgdGV4dC1hbmNob3I9ImVuZCIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMCwwKSByb3RhdGUoLTkwIDUwMi4yMjYyOTk2OTQxODY3IDI3OSkiIHk9IjI3OSIgb3BhY2l0eT0iMSI+MjAyMjE5PC90ZXh0Pjx0ZXh0IHg9IjU4Ny45NTEwNzAzMzYzODY2IiBzdHlsZT0iY29sb3I6IzAwMDAwMDtjdXJzb3I6ZGVmYXVsdDtmb250LXNpemU6MTFweDtmaWxsOiMwMDAwMDA7IiB0ZXh0LWFuY2hvcj0iZW5kIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLDApIHJvdGF0ZSgtOTAgNTg3Ljk1MTA3MDMzNjM4NjYgMjc5KSIgeT0iMjc5IiBvcGFjaXR5PSIxIj4yMDIyMjM8L3RleHQ+PC9nPjxnIGNsYXNzPSJoaWdoY2hhcnRzLWF4aXMtbGFiZWxzIGhpZ2hjaGFydHMteWF4aXMtbGFiZWxzIiBkYXRhLXotaW5kZXg9IjciPjx0ZXh0IHg9IjczIiBzdHlsZT0iY29sb3I6IzAwMDtjdXJzb3I6ZGVmYXVsdDtmb250LXNpemU6MTFweDtmaWxsOiMwMDA7IiB0ZXh0LWFuY2hvcj0iZW5kIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLDApIiB5PSIyNjIiIG9wYWNpdHk9IjEiPjA8L3RleHQ+PHRleHQgeD0iNzMiIHN0eWxlPSJjb2xvcjojMDAwO2N1cnNvcjpkZWZhdWx0O2ZvbnQtc2l6ZToxMXB4O2ZpbGw6IzAwMDsiIHRleHQtYW5jaG9yPSJlbmQiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDAsMCkiIHk9IjIwNCIgb3BhY2l0eT0iMSI+MjUwMDAwPC90ZXh0Pjx0ZXh0IHg9IjczIiBzdHlsZT0iY29sb3I6IzAwMDtjdXJzb3I6ZGVmYXVsdDtmb250LXNpemU6MTFweDtmaWxsOiMwMDA7IiB0ZXh0LWFuY2hvcj0iZW5kIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLDApIiB5PSIxNDUiIG9wYWNpdHk9IjEiPjUwMDAwMDwvdGV4dD48dGV4dCB4PSI3MyIgc3R5bGU9ImNvbG9yOiMwMDA7Y3Vyc29yOmRlZmF1bHQ7Zm9udC1zaXplOjExcHg7ZmlsbDojMDAwOyIgdGV4dC1hbmNob3I9ImVuZCIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMCwwKSIgeT0iODciIG9wYWNpdHk9IjEiPjc1MDAwMDwvdGV4dD48L2c+PHRleHQgeD0iNTkwIiBjbGFzcz0iaGlnaGNoYXJ0cy1jcmVkaXRzIiB0ZXh0LWFuY2hvcj0iZW5kIiBkYXRhLXotaW5kZXg9IjgiIHN0eWxlPSJjdXJzb3I6cG9pbnRlcjtjb2xvcjojOTk5OTk5O2ZvbnQtc2l6ZToxMHB4O2ZpbGw6Izk5OTk5OTsiIHk9IjM5MCI+PHRzcGFuPlRhaXdhbiBDREMgMjAyMjwvdHNwYW4+PC90ZXh0Pjwvc3ZnPg==" preserveAspectRatio="none" pointer-events="none"/>
+        <path d="M 240 1150 L 240 1120 L 440 1120 L 440 1150" fill="#10739e" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 240 1150 L 240 1330 L 440 1330 L 440 1150" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 240 1150 L 440 1150" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 320 1150 L 320 1186 L 320 1222 L 320 1258 L 320 1294 L 320 1330" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#FFFFFF" font-family="Helvetica" font-weight="bold" pointer-events="none" text-anchor="middle" font-size="18px">
+            <text x="339.5" y="1142.5">
+                111Q2
+            </text>
+        </g>
+        <path d="M 240 1150 M 440 1150 M 440 1186 M 240 1186" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <rect x="240" y="1150" width="80" height="36" fill="#b1ddf0" stroke="none" pointer-events="none"/>
+        <path d="M 240 1150 M 320 1150 M 320 1186 M 240 1186" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" font-weight="bold" pointer-events="none" clip-path="url(#mx-clip-248-1158-64-20-0)" font-size="14px">
+            <text x="249.5" y="1173.5">
+                原則異動
+            </text>
+        </g>
+        <rect x="320" y="1150" width="120" height="36" fill="#b1ddf0" stroke="none" pointer-events="none"/>
+        <path d="M 320 1150 M 440 1150 M 440 1186 M 320 1186" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-334-1158-98-20-0)" text-anchor="middle" font-size="14px">
+            <text x="382.5" y="1173.5">
+                未定
+            </text>
+        </g>
+        <path d="M 240 1186 M 440 1186 M 440 1222 M 240 1222" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <rect x="240" y="1186" width="80" height="36" fill="#e8fdfd" stroke="none" pointer-events="none"/>
+        <path d="M 240 1186 M 320 1186 M 320 1222 M 240 1222" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" font-weight="bold" pointer-events="none" clip-path="url(#mx-clip-248-1194-64-20-0)" font-size="14px">
+            <text x="249.5" y="1209.5">
+                參照基準
+            </text>
+        </g>
+        <rect x="320" y="1186" width="120" height="36" fill="#e8fdfd" stroke="none" pointer-events="none"/>
+        <path d="M 320 1186 M 440 1186 M 440 1222 M 320 1222" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-334-1194-98-20-0)" text-anchor="middle" font-size="14px">
+            <text x="382.5" y="1209.5">
+                未定
+            </text>
+        </g>
+        <path d="M 240 1222 M 440 1222 M 440 1258 M 240 1258" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <rect x="240" y="1222" width="80" height="36" fill="#b1ddf0" stroke="none" pointer-events="none"/>
+        <path d="M 240 1222 M 320 1222 M 320 1258 M 240 1258" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" font-weight="bold" pointer-events="none" clip-path="url(#mx-clip-248-1230-64-20-0)" font-size="14px">
+            <text x="249.5" y="1245.5">
+                保障
+            </text>
+        </g>
+        <rect x="320" y="1222" width="120" height="36" fill="#b1ddf0" stroke="none" pointer-events="none"/>
+        <path d="M 320 1222 M 440 1222 M 440 1258 M 320 1258" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-334-1230-98-20-0)" text-anchor="middle" font-size="14px">
+            <text x="382.5" y="1245.5">
+                未定
+            </text>
+        </g>
+        <path d="M 240 1258 M 440 1258 M 440 1294 M 240 1294" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <rect x="240" y="1258" width="80" height="36" fill="#e8fdfd" stroke="none" pointer-events="none"/>
+        <path d="M 240 1258 M 320 1258 M 320 1294 M 240 1294" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" font-weight="bold" pointer-events="none" clip-path="url(#mx-clip-248-1266-64-20-0)" font-size="14px">
+            <text x="249.5" y="1281.5">
+                上限
+            </text>
+        </g>
+        <rect x="320" y="1258" width="120" height="36" fill="#e8fdfd" stroke="none" pointer-events="none"/>
+        <path d="M 320 1258 M 440 1258 M 440 1294 M 320 1294" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-334-1266-98-20-0)" text-anchor="middle" font-size="14px">
+            <text x="382.5" y="1281.5">
+                未定
+            </text>
+        </g>
+        <path d="M 240 1294 M 440 1294 M 440 1330 M 240 1330" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <rect x="240" y="1294" width="80" height="36" fill="#b1ddf0" stroke="none" pointer-events="none"/>
+        <path d="M 240 1294 M 320 1294 M 320 1330 M 240 1330" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" font-weight="bold" pointer-events="none" clip-path="url(#mx-clip-248-1302-64-20-0)" font-size="14px">
+            <text x="249.5" y="1317.5">
+                攤扣
+            </text>
+        </g>
+        <rect x="320" y="1294" width="120" height="36" fill="#b1ddf0" stroke="none" pointer-events="none"/>
+        <path d="M 320 1294 M 440 1294 M 440 1330 M 320 1330" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-334-1302-98-20-0)" text-anchor="middle" font-size="14px">
+            <text x="382.5" y="1317.5">
+                未定
+            </text>
+        </g>
+        <path d="M 0 1150 L 0 1120 L 200 1120 L 200 1150" fill="#10739e" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 0 1150 L 0 1330 L 200 1330 L 200 1150" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 0 1150 L 200 1150" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 80 1150 L 80 1186 L 80 1222 L 80 1258 L 80 1294 L 80 1330" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#FFFFFF" font-family="Helvetica" font-weight="bold" pointer-events="none" text-anchor="middle" font-size="18px">
+            <text x="99.5" y="1142.5">
+                111Q1
+            </text>
+        </g>
+        <path d="M 0 1150 M 200 1150 M 200 1186 M 0 1186" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <rect x="0" y="1150" width="80" height="36" fill="#b1ddf0" stroke="none" pointer-events="none"/>
+        <path d="M 0 1150 M 80 1150 M 80 1186 M 0 1186" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" font-weight="bold" pointer-events="none" clip-path="url(#mx-clip-8-1158-64-20-0)" font-size="14px">
+            <text x="9.5" y="1173.5">
+                原則異動
+            </text>
+        </g>
+        <rect x="80" y="1150" width="120" height="36" fill="#b1ddf0" stroke="none" pointer-events="none"/>
+        <path d="M 80 1150 M 200 1150 M 200 1186 M 80 1186" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-94-1158-98-20-0)" text-anchor="middle" font-size="14px">
+            <text x="142.5" y="1173.5">
+                無
+            </text>
+        </g>
+        <path d="M 0 1186 M 200 1186 M 200 1222 M 0 1222" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <rect x="0" y="1186" width="80" height="36" fill="#e8fdfd" stroke="none" pointer-events="none"/>
+        <path d="M 0 1186 M 80 1186 M 80 1222 M 0 1222" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" font-weight="bold" pointer-events="none" clip-path="url(#mx-clip-8-1194-64-20-0)" font-size="14px">
+            <text x="9.5" y="1209.5">
+                參照基準
+            </text>
+        </g>
+        <rect x="80" y="1186" width="120" height="36" fill="#e8fdfd" stroke="none" pointer-events="none"/>
+        <path d="M 80 1186 M 200 1186 M 200 1222 M 80 1222" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-94-1194-98-20-0)" text-anchor="middle" font-size="14px">
+            <text x="142.5" y="1209.5">
+                無
+            </text>
+        </g>
+        <path d="M 0 1222 M 200 1222 M 200 1258 M 0 1258" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <rect x="0" y="1222" width="80" height="36" fill="#b1ddf0" stroke="none" pointer-events="none"/>
+        <path d="M 0 1222 M 80 1222 M 80 1258 M 0 1258" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" font-weight="bold" pointer-events="none" clip-path="url(#mx-clip-8-1230-64-20-0)" font-size="14px">
+            <text x="9.5" y="1245.5">
+                保障
+            </text>
+        </g>
+        <rect x="80" y="1222" width="120" height="36" fill="#b1ddf0" stroke="none" pointer-events="none"/>
+        <path d="M 80 1222 M 200 1222 M 200 1258 M 80 1258" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-94-1230-98-20-0)" text-anchor="middle" font-size="14px">
+            <text x="142.5" y="1245.5">
+                無
+            </text>
+        </g>
+        <path d="M 0 1258 M 200 1258 M 200 1294 M 0 1294" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <rect x="0" y="1258" width="80" height="36" fill="#e8fdfd" stroke="none" pointer-events="none"/>
+        <path d="M 0 1258 M 80 1258 M 80 1294 M 0 1294" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" font-weight="bold" pointer-events="none" clip-path="url(#mx-clip-8-1266-64-20-0)" font-size="14px">
+            <text x="9.5" y="1281.5">
+                上限
+            </text>
+        </g>
+        <rect x="80" y="1258" width="120" height="36" fill="#e8fdfd" stroke="none" pointer-events="none"/>
+        <path d="M 80 1258 M 200 1258 M 200 1294 M 80 1294" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-94-1266-98-20-0)" text-anchor="middle" font-size="14px">
+            <text x="142.5" y="1281.5">
+                無
+            </text>
+        </g>
+        <path d="M 0 1294 M 200 1294 M 200 1330 M 0 1330" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <rect x="0" y="1294" width="80" height="36" fill="#b1ddf0" stroke="none" pointer-events="none"/>
+        <path d="M 0 1294 M 80 1294 M 80 1330 M 0 1330" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" font-weight="bold" pointer-events="none" clip-path="url(#mx-clip-8-1302-64-20-0)" font-size="14px">
+            <text x="9.5" y="1317.5">
+                攤扣
+            </text>
+        </g>
+        <rect x="80" y="1294" width="120" height="36" fill="#b1ddf0" stroke="none" pointer-events="none"/>
+        <path d="M 80 1294 M 200 1294 M 200 1330 M 80 1330" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-94-1302-98-20-0)" text-anchor="middle" font-size="14px">
+            <text x="142.5" y="1317.5">
+                無
+            </text>
+        </g>
+        <path d="M 480 1150 L 480 1120 L 680 1120 L 680 1150" fill="#10739e" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 480 1150 L 480 1330 L 680 1330 L 680 1150" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 480 1150 L 680 1150" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 560 1150 L 560 1186 L 560 1222 L 560 1258 L 560 1294 L 560 1330" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#FFFFFF" font-family="Helvetica" font-weight="bold" pointer-events="none" text-anchor="middle" font-size="18px">
+            <text x="579.5" y="1142.5">
+                111Q3
+            </text>
+        </g>
+        <path d="M 480 1150 M 680 1150 M 680 1186 M 480 1186" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <rect x="480" y="1150" width="80" height="36" fill="#b1ddf0" stroke="none" pointer-events="none"/>
+        <path d="M 480 1150 M 560 1150 M 560 1186 M 480 1186" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" font-weight="bold" pointer-events="none" clip-path="url(#mx-clip-488-1158-64-20-0)" font-size="14px">
+            <text x="489.5" y="1173.5">
+                原則異動
+            </text>
+        </g>
+        <rect x="560" y="1150" width="120" height="36" fill="#b1ddf0" stroke="none" pointer-events="none"/>
+        <path d="M 560 1150 M 680 1150 M 680 1186 M 560 1186" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-574-1158-98-20-0)" text-anchor="middle" font-size="14px">
+            <text x="622.5" y="1173.5">
+                未定
+            </text>
+        </g>
+        <path d="M 480 1186 M 680 1186 M 680 1222 M 480 1222" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <rect x="480" y="1186" width="80" height="36" fill="#e8fdfd" stroke="none" pointer-events="none"/>
+        <path d="M 480 1186 M 560 1186 M 560 1222 M 480 1222" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" font-weight="bold" pointer-events="none" clip-path="url(#mx-clip-488-1194-64-20-0)" font-size="14px">
+            <text x="489.5" y="1209.5">
+                參照基準
+            </text>
+        </g>
+        <rect x="560" y="1186" width="120" height="36" fill="#e8fdfd" stroke="none" pointer-events="none"/>
+        <path d="M 560 1186 M 680 1186 M 680 1222 M 560 1222" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-574-1194-98-20-0)" text-anchor="middle" font-size="14px">
+            <text x="622.5" y="1209.5">
+                未定
+            </text>
+        </g>
+        <path d="M 480 1222 M 680 1222 M 680 1258 M 480 1258" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <rect x="480" y="1222" width="80" height="36" fill="#b1ddf0" stroke="none" pointer-events="none"/>
+        <path d="M 480 1222 M 560 1222 M 560 1258 M 480 1258" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" font-weight="bold" pointer-events="none" clip-path="url(#mx-clip-488-1230-64-20-0)" font-size="14px">
+            <text x="489.5" y="1245.5">
+                保障
+            </text>
+        </g>
+        <rect x="560" y="1222" width="120" height="36" fill="#b1ddf0" stroke="none" pointer-events="none"/>
+        <path d="M 560 1222 M 680 1222 M 680 1258 M 560 1258" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-574-1230-98-20-0)" text-anchor="middle" font-size="14px">
+            <text x="622.5" y="1245.5">
+                未定
+            </text>
+        </g>
+        <path d="M 480 1258 M 680 1258 M 680 1294 M 480 1294" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <rect x="480" y="1258" width="80" height="36" fill="#e8fdfd" stroke="none" pointer-events="none"/>
+        <path d="M 480 1258 M 560 1258 M 560 1294 M 480 1294" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" font-weight="bold" pointer-events="none" clip-path="url(#mx-clip-488-1266-64-20-0)" font-size="14px">
+            <text x="489.5" y="1281.5">
+                上限
+            </text>
+        </g>
+        <rect x="560" y="1258" width="120" height="36" fill="#e8fdfd" stroke="none" pointer-events="none"/>
+        <path d="M 560 1258 M 680 1258 M 680 1294 M 560 1294" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-560-1258-120-36-0)" text-anchor="middle" font-size="14px">
+            <text x="619.5" y="1281.5">
+                未定
+            </text>
+        </g>
+        <path d="M 480 1294 M 680 1294 M 680 1330 M 480 1330" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <rect x="480" y="1294" width="80" height="36" fill="#b1ddf0" stroke="none" pointer-events="none"/>
+        <path d="M 480 1294 M 560 1294 M 560 1330 M 480 1330" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" font-weight="bold" pointer-events="none" clip-path="url(#mx-clip-488-1302-64-20-0)" font-size="14px">
+            <text x="489.5" y="1317.5">
+                攤扣
+            </text>
+        </g>
+        <rect x="560" y="1294" width="120" height="36" fill="#b1ddf0" stroke="none" pointer-events="none"/>
+        <path d="M 560 1294 M 680 1294 M 680 1330 M 560 1330" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-574-1302-98-20-0)" text-anchor="middle" font-size="13px">
+            <text x="622.5" y="1317">
+                未定
+            </text>
+        </g>
+        <path d="M 720 1150 L 720 1120 L 920 1120 L 920 1150" fill="#10739e" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 720 1150 L 720 1330 L 920 1330 L 920 1150" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 720 1150 L 920 1150" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 800 1150 L 800 1186 L 800 1222 L 800 1258 L 800 1294 L 800 1330" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#FFFFFF" font-family="Helvetica" font-weight="bold" pointer-events="none" text-anchor="middle" font-size="18px">
+            <text x="819.5" y="1142.5">
+                111Q4
+            </text>
+        </g>
+        <path d="M 720 1150 M 920 1150 M 920 1186 M 720 1186" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <rect x="720" y="1150" width="80" height="36" fill="#b1ddf0" stroke="none" pointer-events="none"/>
+        <path d="M 720 1150 M 800 1150 M 800 1186 M 720 1186" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" font-weight="bold" pointer-events="none" clip-path="url(#mx-clip-728-1158-64-20-0)" font-size="14px">
+            <text x="729.5" y="1173.5">
+                原則異動
+            </text>
+        </g>
+        <rect x="800" y="1150" width="120" height="36" fill="#b1ddf0" stroke="none" pointer-events="none"/>
+        <path d="M 800 1150 M 920 1150 M 920 1186 M 800 1186" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-814-1158-98-20-0)" text-anchor="middle" font-size="14px">
+            <text x="862.5" y="1173.5">
+                未定
+            </text>
+        </g>
+        <path d="M 720 1186 M 920 1186 M 920 1222 M 720 1222" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <rect x="720" y="1186" width="80" height="36" fill="#e8fdfd" stroke="none" pointer-events="none"/>
+        <path d="M 720 1186 M 800 1186 M 800 1222 M 720 1222" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" font-weight="bold" pointer-events="none" clip-path="url(#mx-clip-728-1194-64-20-0)" font-size="14px">
+            <text x="729.5" y="1209.5">
+                參照基準
+            </text>
+        </g>
+        <rect x="800" y="1186" width="120" height="36" fill="#e8fdfd" stroke="none" pointer-events="none"/>
+        <path d="M 800 1186 M 920 1186 M 920 1222 M 800 1222" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-814-1194-98-20-0)" text-anchor="middle" font-size="14px">
+            <text x="862.5" y="1209.5">
+                未定
+            </text>
+        </g>
+        <path d="M 720 1222 M 920 1222 M 920 1258 M 720 1258" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <rect x="720" y="1222" width="80" height="36" fill="#b1ddf0" stroke="none" pointer-events="none"/>
+        <path d="M 720 1222 M 800 1222 M 800 1258 M 720 1258" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" font-weight="bold" pointer-events="none" clip-path="url(#mx-clip-728-1230-64-20-0)" font-size="14px">
+            <text x="729.5" y="1245.5">
+                保障
+            </text>
+        </g>
+        <rect x="800" y="1222" width="120" height="36" fill="#b1ddf0" stroke="none" pointer-events="none"/>
+        <path d="M 800 1222 M 920 1222 M 920 1258 M 800 1258" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-814-1230-98-20-0)" text-anchor="middle" font-size="14px">
+            <text x="862.5" y="1245.5">
+                未定
+            </text>
+        </g>
+        <path d="M 720 1258 M 920 1258 M 920 1294 M 720 1294" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <rect x="720" y="1258" width="80" height="36" fill="#e8fdfd" stroke="none" pointer-events="none"/>
+        <path d="M 720 1258 M 800 1258 M 800 1294 M 720 1294" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" font-weight="bold" pointer-events="none" clip-path="url(#mx-clip-728-1266-64-20-0)" font-size="14px">
+            <text x="729.5" y="1281.5">
+                上限
+            </text>
+        </g>
+        <rect x="800" y="1258" width="120" height="36" fill="#e8fdfd" stroke="none" pointer-events="none"/>
+        <path d="M 800 1258 M 920 1258 M 920 1294 M 800 1294" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-814-1266-98-20-0)" text-anchor="middle" font-size="13px">
+            <text x="862.5" y="1281">
+                未定
+            </text>
+        </g>
+        <path d="M 720 1294 M 920 1294 M 920 1330 M 720 1330" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <rect x="720" y="1294" width="80" height="36" fill="#b1ddf0" stroke="none" pointer-events="none"/>
+        <path d="M 720 1294 M 800 1294 M 800 1330 M 720 1330" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" font-weight="bold" pointer-events="none" clip-path="url(#mx-clip-728-1302-64-20-0)" font-size="14px">
+            <text x="729.5" y="1317.5">
+                攤扣
+            </text>
+        </g>
+        <rect x="800" y="1294" width="120" height="36" fill="#b1ddf0" stroke="none" pointer-events="none"/>
+        <path d="M 800 1294 M 920 1294 M 920 1330 M 800 1330" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-814-1302-98-20-0)" text-anchor="middle" font-size="13px">
+            <text x="862.5" y="1317">
+                未定
+            </text>
+        </g>
+        <path d="M 569.54 1759.9 L 241.2 1329.5" fill="none" stroke="rgb(0, 0, 0)" stroke-width="3" stroke-miterlimit="10" stroke-dasharray="3 9" pointer-events="none"/>
+        <path d="M 900 1760 L 441.2 1331.15" fill="none" stroke="rgb(0, 0, 0)" stroke-width="3" stroke-miterlimit="10" stroke-dasharray="3 9" pointer-events="none"/>
+        <rect x="0" y="1050" width="480" height="50" fill="#0066cc" stroke="none" pointer-events="none"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 478px; height: 1px; padding-top: 1075px; margin-left: 1px;">
+                        <div data-drawio-colors="color: #FFFFFF; " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 36px; font-family: Helvetica; color: rgb(255, 255, 255); line-height: 1.2; pointer-events: none; white-space: normal; overflow-wrap: normal;">
+                                111年各季總額管理異動情形
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="240" y="1086" fill="#FFFFFF" font-family="Helvetica" font-size="36px" text-anchor="middle">
+                    111年各季總額管理異動情形
+                </text>
+            </switch>
+        </g>
+    </g>
+    <switch>
+        <g requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"/>
+        <a transform="translate(0,-5)" xlink:href="https://www.diagrams.net/doc/faq/svg-export-text-problems" target="_blank">
+            <text text-anchor="middle" font-size="10px" x="50%" y="100%">
+                Viewer does not support full SVG 1.1
+            </text>
+        </a>
+    </switch>
+</svg>
