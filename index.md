@@ -13,6 +13,7 @@
 
 # 健保流程圖協作
 
+## [疫情與總額管理異動彙整表](./gbp/readme.md)
 ## [健保 IC 卡上傳](./iccard/index.md)
 ## [虛擬健保卡](./vhc/index.md)
 
