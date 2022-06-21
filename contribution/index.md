@@ -21,8 +21,35 @@
 **vscode 參考畫面**
 ![](./images/vscode/sample.drawio.svg)
 
+### 3. 安裝 git 軟體
+git 是文字檔案內容版本控制的軟體，經常被使用在程式開發的原始碼管理，由於它只針對文字內容做比對，因此，本專案的繪圖協作就採用可縮放向量圖片格式(SVG)來實作圖片版次的管控。
 
-### 3. 安裝 drawio 套件
+- 版本控制
+- 合併請求
+
+協作時，為了做檔案的版本控制，開始之前，我們也須先安裝 git 軟體，以利我們將專案複製(clone)到本地端的電腦，使用 vscode 進行畫圖(drawio)或編寫文字內容。
+
+[git 安裝程式下載請到這裡](https://git-scm.com/download)，並依照您電腦的作業系統，下載對應的版本安裝。
+![](./images/git/install.drawio.svg)
+
+- 若您有安裝上的問題，可以看看 [windows 上的 git 安裝教學](https://w3c.hexschool.com/git/3f9497cd)參考，或是[留言發問](https://github.com/losehrt/nhi_flows/discussions/new)。
+
+- 補充說明：Apple Mac 使用者，安裝時可能會碰到一些障礙，不知道要用命令安裝或是執行檔安裝，對初學者建議 [ 點這裡下載 dmg 安裝 ](https://sourceforge.net/projects/git-osx-installer/)，安裝過程會有一些安全性的提示，請到「系統偏好設定/安全性與隱私權」選項強制執行即可。如下圖所示：
+
+![](2022-06-21-19-46-44.png)
+
+
+- 最後，我們可以檢查看看，您電腦的 git 是否安裝成功？請開啟終端機，並執行執行下列指令：
+```
+# 檢查 git 版本
+git --version
+```
+```
+# 結果輸出
+git version 2.24.3 (Apple Git-128)
+```
+
+### 4. 安裝 drawio 套件
 drawio 是一套功能強大且免費使用的線上繪圖軟體，可以快速繪製出流程圖(flowchart)或資訊圖表(Infographic)，內建有多種元素及各式樣板，並提供 png, svg 等多種圖片格式匯出功能，習得此軟體保證值回票價，您可以先[前往該網站](https://app.diagrams.net/)試試。
 
 **drawio 參考畫面**
@@ -36,28 +63,7 @@ drawio 是一套功能強大且免費使用的線上繪圖軟體，可以快速�
 
 
 
-### 4. 安裝 git 軟體
-git 是文字檔案內容版本控制的軟體，經常被使用在程式開發的原始碼管理，由於它只針對文字內容做比對，因此，本專案的繪圖協作就採用可縮放向量圖片格式(SVG)來實作圖片版次的管控。
 
-- 版本控制
-- 合併請求
-
-協作時，為了做檔案的版本控制，開始之前，我們也須先安裝 git 軟體，以利我們將專案複製(clone)到本地端的電腦，使用 vscode 進行畫圖(drawio)或編寫文字內容。
-
-[git 安裝程式下載請到這裡](https://git-scm.com/download)，並依照您電腦的作業系統，下載對應的版本安裝。
-![](./images/git/install.drawio.svg)
-
-- 若您有安裝上的問題，可以看看 [windows 上的 git 安裝教學](https://w3c.hexschool.com/git/3f9497cd)參考，或是[留言發問](https://github.com/losehrt/nhi_flows/discussions/new)。
-
-- 最後，我們可以檢查看看，您電腦的 git 是否安裝成功？請開啟終端機，並執行執行下列指令：
-```
-# 檢查 git 版本
-git --version
-```
-```
-# 結果輸出
-git version 2.24.3 (Apple Git-128)
-```
 
 ### 5. 複製分支成為自己的專案
 
