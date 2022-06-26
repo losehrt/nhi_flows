@@ -21,6 +21,9 @@
 **vscode 參考畫面**
 ![](./images/vscode/sample.drawio.svg)
 
+**提示**
+安裝完成 vscode 第一次啟動時，若你是中文版作業系統，應會自動提醒是否安裝中文套件。
+
 ### 3. 安裝 git 軟體
 git 是文字檔案內容版本控制的軟體，經常被使用在程式開發的原始碼管理，由於它只針對文字內容做比對，因此，本專案的繪圖協作就採用可縮放向量圖片格式(SVG)來實作圖片版次的管控。
 
@@ -29,7 +32,10 @@ git 是文字檔案內容版本控制的軟體，經常被使用在程式開發�
 
 協作時，為了做檔案的版本控制，開始之前，我們也須先安裝 git 軟體，以利我們將專案複製(clone)到本地端的電腦，使用 vscode 進行畫圖(drawio)或編寫文字內容。
 
-[git 安裝程式下載請到這裡](https://git-scm.com/download)，並依照您電腦的作業系統，下載對應的版本安裝。
+如果你使用 macOS，只要開啟終端機(Terminal)程式，輸入 git 後按「Enter」，系統就會提示你要安裝 xcode，並依照提示安裝，就可安裝完成了。
+![](./images/git/macOS_install.drawio.svg)
+
+如果是其他作業系統，請到[git 安裝程式下載](https://git-scm.com/download)，並依照您電腦的作業系統，下載對應的版本安裝。
 ![](./images/git/install.drawio.svg)
 
 - 若您有安裝上的問題，可以看看 [windows 上的 git 安裝教學](https://w3c.hexschool.com/git/3f9497cd)參考，或是[留言發問](https://github.com/losehrt/nhi_flows/discussions/new)。
